@@ -1,6 +1,6 @@
 # BDD-NET therapist manual
 
-## Key points
+Write a kind introduction here.
 
 ## What is BDD-NET?
 *Detailed review of the content of the product. What therapeutic interventions are included and how are they implemented?*

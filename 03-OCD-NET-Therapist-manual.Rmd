@@ -1,5 +1,7 @@
 # OCD-NET therapist manual
 
+Write a kind introduction here.
+
 ## What is OCD-NET?
 OCD-NET is a therapist-guided internet-based cognitive behaviour therapy for OCD developed by researchers at Karolinska Institutet in Stockholm, Sweden. OCD-NET has been evaluated in six clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patient and with the advantage of being accessible from any device connected to the internet [@andersson2011a; @andersson2012; @andersson2014a; @andersson2015a; @ruck2018].
 
@@ -75,8 +77,6 @@ Some patients may initially be skeptical about OCD-NET in general or in their ab
 We hope that you have found this therapist guide useful. Our goal has been to present a few ideas about how to deliver OCD-NET effectively. These are just the first building blocks and you will likely find that adaptations are needed to your particular patients and your own style as a therapist.
 
 We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.
-
-##### 
 
 ## Appendix: Theoretical basis for remote treatments such as OCD-NET
 In **learning theory**, obsessions can be seen as conditioned stimuli (CS) that elicit a conditioned response (CR) in the form of fear/anxiety. The CR then serves as a discriminant stimulus to perform a compulsion (operant behaviour). The compulsion relieves anxiety in the short-term but maintains the CS-CR relation and compulsions remain a likely response in the future [@mowrer1960].
