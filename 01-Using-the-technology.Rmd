@@ -1,4 +1,4 @@
-# Web-CBT therapist manual {#webcbt-therapist}
+# Using the technology
 
 ## Quick start
 
