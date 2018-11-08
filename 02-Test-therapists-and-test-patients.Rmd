@@ -1,0 +1,35 @@
+# Test therapists and test patients
+
+For the OCD-NET treatment. If you experience any issues during testing, please email us at <ocdnet.support@webcbt.se>. We are currently hosting the treatment at our local test server while implementing security features, hence the odd URLs.
+
+## Test therapists
+
+URL: [https://webcbt.tst.ki.se/t1](https://webcbt.tst.ki.se/t1)
+
+**Test therapist 1**:
+* Login: testtherapist1
+* Password: OCDNETtest01
+
+**Test therapist 2**:
+* Login: testtherapist2
+* Password: OCDNETtest02
+
+## Test patients
+
+URL: [https://t1.webcbt.tst.ki.se/](https://t1.webcbt.tst.ki.se/)
+
+**Test patient 1**:
+* Login: ocdtester1
+* Password: EKG69VED39x
+
+**Test patient 2**:
+* Login: ocdtester2
+* Password: Upp89Nek66
+
+**Test patient 3**:
+* Login: ocdtester3
+* Password: Ekg77TIE87
+
+**Test patient 4**:
+* Login: ocdtester4
+* Password: LYA24Dan23

@@ -1,0 +1,17 @@
+---
+title: "Web-CBT therapist resources"
+author: "Oskar Flygare, Christian Rück, Jesper Enander & Erik Andersson"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [bibliography.bib, packages.bib]
+biblio-style: apalike
+linkcitations: yes
+github-repo: oskarflygare/webcbt-therapist
+description: "This is my description."
+---
+
+# Introduction
+
+Welcome to our online therapist resource for the *Web-CBT* platform for *OCD-NET* and *BDD-NET*.
