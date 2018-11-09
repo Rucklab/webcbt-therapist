@@ -1,0 +1,62 @@
+# Being an effective ICBT therapist
+
+Being a therapist in internet-based CBT (ICBT) differs in several ways from regular face-to-face treatment. The first difference is the mode of communication: asynchronous text messages rather than live face-to-face talking. The second is that you are more closely integrated in the treatment content, and will rely more heavily on the written material. Third, there is less therapist oversight during active ERP exercises. We will discuss these implications below.
+
+## Keep your messages short
+
+Messages should be concise and to the point but still using a personal touch. The main aim here is to provide encouragement and reinforce key behaviours in the treatment, such as registrations in the OCD/BDD diary and performing ERP exercises. With this said, please allow yourself also to write longer messages when needed, for example to highlight examples in the diary that you think are informative and relate these to the CBT model of OCD/BDD.
+
+## Write often
+
+Frequent communication is particularly useful at the start of treatment and when patients are in the startup phase of ERP. In many ways, ICBT may be an even more intensive treatment than traditional face-to-face CBT. Our standard procedure is to contact patients at least twice weekly, but more often when needed. For example, you may confirm an exposure exercise in the morning and check in during the afternoon for a follow-up. 
+
+There are exceptions to the rule of frequent messages: some patients will prefer to do ERP exercises on their own and will not have many questions for you. This is perfectly fine; some patients benefit greatly from the ICBT treatment without the therapist support. The default mode, however, is frequent contact with patients.
+
+## You and the rest of the content in ICBT
+
+As previously mentioned, ICBT is in many ways a high intensity treatment. Patients not only respond to your messages but also read module texts, answer homework questions and questionnaires, and fill in worksheets. The treatment becomes particularly intensive once patients start performing daily ERP exercises. Thus, what might feel like a low-intensity treatment from your perspective may actually be very intensive from the patient's perspective.
+
+## Lack of therapist-guided exposure exercises
+
+We do not have the privilege of guiding patients through ERP exercises in ICBT. This means that you will have to focus on the essentials when giving corrective feedback to the patient. Correcting every little detail before each exercise will in this context probably be counter-productive and might in fact confuse the patient. Instead, our focus is to get the patient going with the ERP exercises. Wrinkles can be ironed out along the way.
+
+## Dealing with patients with low engagement
+
+The best way to deal with low engagement is to prevent it from happening to begin with. Strategies to prevent low engagement may be to 1) write frequently (especially in the beginning of treatment in order to keep up momentum), 2) focus on encouragement in your written messages, 3) call patients promptly if they do not respond to messages, and 4) provide support and help to patients that struggle with ERP exercises.
+
+If a patient becomes less active on the treatment platform, it does not necessarily mean that they are not actively working with the treatment or have given up on the treatment. Some inactive patients are actually doing a lot of treatment work in their daily life but do not report this spontaneously to their therapist.
+
+### Strategies when patients express lack of time to work on the treatment
+
+One common reason for low engagement is that the patient struggles to find the time to work on ICBT. We recommend that you encourage any small steps the patient takes and that you prioritise ERP exercises away from the computer over reading additional modules.
+
+If a patient is completely unable to work on the treatment right now, ask him/her if it possible to delay the start of treatment. It is important to stress that the absolute majority of patients responding to OCD-NET and BDD-NET experience this gain within the first 5 weeks after starting treatment. Thus, even if the patient is delayed and start the treatment at week 5, it is still possible to achieve a significant improvement given that the patient works with the treatment intensively.
+
+### Strategies when patients express skepticism about ICBT
+
+Some patients may be a bit skeptical about ICBT in general or in their ability to complete a remotely-delivered treatment with a therapist at a distance. We recommend that therapists validate and acknowledge that this is common early in treatment and, importantly, help these patients experience *early wins* by starting with swift and easy ERP exercises.
+
+This being said, it is important to stress that OCD-NET and BDD-NET have never been designed as full alternatives to face-to-face CBT but should instead be seen as a complementary approach. Patients who are skeptical to ICBT from the beginning will probably not benefit from this treatment modality. Alternative formats and treatments are probably a more feasible option in these cases.
+
+## Use these as well?
+
+### Lack of space to address questions through messages
+
+Starting out as a therapist in BDD-NET can be frustrating if you want to address every question and issue that patients report.
+
+**IDEAS:**
+* Focus on one thing per message
+* Rely on the written material, common questions are most likely addressed in one of the modules
+* Whenever possible, turn it into an exercise that the patient can try out for themselves. Maybe it's suitable for cognitive restructuring, maybe an EX/RP exercise.
+* You can also defer some common issues to module 7 if it's included there.
+* We have to accept that we do not have fine grained control over the patient's understanding. Maybe that's OK as long as they do EX/RP exercises, then you can steer the patient toward exercises that might resolve a misunderstanding
+
+### Reinforcing rumination instead of behaviour change
+
+You can avoid reinforcing the wrong behaviour by thinking about what you attend to in your responses to patients. A typical message from a patient mid-treatment might include a summary of their latest EX/RP, comments about what they have found challenging, and a couple of questions about the treatment content. It is very tempting to try to answer the questions and make suggestions for how to deal with the challenges in your response, but that is not really what we want to reinforce here. Rather, we want to encourage the patient to continue doing EX/RP because that is the key behaviour for them to get better in the long-term.
+
+**IDEAS:**
+* Maybe it's already discussed in the "common difficulties" module, then open up that one
+* Maybe you can recommend a certain EX/RP exercise for the patient to try and see whether that resolves their question
+* Maybe it's lack of clarity in the EX/RP exercise and you need to revisit the plan, make some changes, and then try again
+* We don't want to reinforce rumination over challenges but rather the patient's ability to do hands-on exercises and adjust them over time

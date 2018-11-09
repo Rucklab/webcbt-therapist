@@ -1,5 +1,5 @@
 ---
-title: "Web-CBT therapist resources"
+title: "OCD-NET & BDD-NET therapist resources"
 author: "Oskar Flygare, Christian Rück, Jesper Enander & Erik Andersson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -9,14 +9,26 @@ bibliography: [bibliography.bib, packages.bib]
 biblio-style: apalike
 linkcitations: yes
 github-repo: oskarflygare/webcbt-therapist
-description: "This is my description."
+description: "Online resources for therapists."
 ---
 
 # Introduction
 
-Welcome to our online therapist resource for the *Web-CBT* platform for *OCD-NET* and *BDD-NET*.
+Welcome to our online therapist resource for the *Web-CBT* platform for *OCD-NET* and *BDD-NET*. We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.
 
-We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.
+## Description of OCD-NET and BDD-NET
+
+* Copy from the intro of respective treatment, and comment on the broader ICBT strategy
+* Describe therapist-guided and asynchronous communication
+
+## Type of treatment (step)
+
+* Maybe take from our assessments, what have NICE said about OCD-NET and BDD-NET?
+
+## Background
+
+* What studies have we done to date
+* What have we found
 
 ## Tasks for Kristin
 
