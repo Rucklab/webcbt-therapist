@@ -3,13 +3,7 @@
 ## What is BDD-NET?
 *Detailed review of the content of the product. What therapeutic interventions are included and how are they implemented?*
 
-BDD-NET is a therapist-guided, internet-delivered cognitive behaviour therapy (ICBT) for body dysmorphic disorder (BDD) developed by researchers at Karolinska Institutet, Stockholm, Sweden. BDD-NET has been evaluated in three clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patients and with the advantage of being accessible from any device connected to the internet [@enander2014; @enander2016].
-
 BDD-NET consists of eight interactive modules and is based on a treatment protocol by Sabine Wilhelm and colleagues [@wilhelm2013] that focuses on exposure with response prevention. This means that patients do most of the active treatment work away from their computer or mobile device, for example when they are performing exposure and response prevention exercises.
-
-In BDD-NET, therapists and patients communicate through asynchronous text messages (like e-mail or SMS) throughout treatment. The primary role of therapists is to provide support and feedback related to the treatment exercises.
-
-![Messages from the therapists point of view](images/therapist-messages.png){width=500px}
 
 ### Comparison between BDD-NET content and current IAPT services content in the treatment of BDD
 

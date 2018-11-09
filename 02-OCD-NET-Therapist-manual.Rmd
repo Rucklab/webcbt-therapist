@@ -2,12 +2,6 @@
 
 ## What is OCD-NET?
 
-OCD-NET is a therapist-guided internet-based cognitive behaviour therapy for OCD developed by researchers at Karolinska Institutet in Stockholm, Sweden. OCD-NET has been evaluated in six clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patient and with the advantage of being accessible from any device connected to the internet [@andersson2011a; @andersson2012; @andersson2014a; @andersson2015a; @ruck2018].
-
-OCD-NET is a therapist-guided treatment, which means that patients have an identified therapist providing support and feedback throughout treatment. All contact with the therapist occurs through the treatment platform as asynchronous text messages (like e-mail or SMS).
-
-![Messages from the therapists point of view](images/therapist-messages.png){width=500px}
-
 The treatment in OCD-NET is based on established treatment protocols for OCD [@foa2012], and focuses on exposure with response prevention (ERP). This means patients do most of the active treatment work away from their computer or mobile device, for example when they are performing exposure and response prevention exercises.
 
 ### Who is suitable for OCD-NET

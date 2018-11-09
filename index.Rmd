@@ -18,17 +18,17 @@ Welcome to our online therapist resource for the *Web-CBT* platform for *OCD-NET
 
 ## Description of OCD-NET and BDD-NET
 
-* Copy from the intro of respective treatment, and comment on the broader ICBT strategy
-* Describe therapist-guided and asynchronous communication
+OCD-NET and BDD-NET are therapist-guided internet-based cognitive behaviour (ICBT) therapies for OCD and BDD, respectively. In ICBT, patients have an identified therapist providing support and feedback throughout treatment. All contact with the therapist occurs through the treatment platform as asynchronous text messages (like e-mail or SMS).
 
-## Type of treatment (step)
+## Type of treatment
 
-* Maybe take from our assessments, what have NICE said about OCD-NET and BDD-NET?
+The intended use of OCD-NET and BDD-NET are within a stepped care model as an alternative to brief individual CBT, group CBT, serotonin reuptake inhibitors (SSRIs), or higher-intensity CBT for adults with mild to moderate symptoms. The treatments are expected to be cost-saving compared to individual CBT (10 hours or more intensive treatment) but not compared to group CBT. Crucially, ICBT therapies typically require less therapist time per patient (10-20 minutes per patient each week) and could therefore release therapist time compared to individual CBT or group CBT.
 
 ## Background
 
-* What studies have we done to date
-* What have we found
+Both OCD-NET and BDD-NET were initially developed by researchers at Karolinska Institutet in Stockholm, Sweden. OCD-NET has been evaluated in six clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patient and with the advantage of being accessible from any device connected to the internet [@andersson2011a; @andersson2012; @andersson2014a; @andersson2015a; @ruck2018]. Similarly, BDD-NET has been evaluated in two clinical trials with comparable results [@enander2014; @enander2016]. Both treatments were initially developed in Swedish but have been translated to English and evaluated in pilot studies in New York (OCD-NET) and an international pilot study (BDD-NET) [@patel2017]. <- **ADD BDD GLOBAL**
+
+* What have we found, add anything else?
 
 ## Tasks for Kristin
 
