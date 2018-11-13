@@ -1,43 +1,16 @@
 # BDD-NET therapist manual
 
 ## What is BDD-NET?
-*Detailed review of the content of the product. What therapeutic interventions are included and how are they implemented?*
 
-BDD-NET consists of eight interactive modules and is based on a treatment protocol by Sabine Wilhelm and colleagues [@wilhelm2013] that focuses on exposure with response prevention. This means that patients do most of the active treatment work away from their computer or mobile device, for example when they are performing exposure and response prevention exercises.
-
-### Comparison between BDD-NET content and current IAPT services content in the treatment of BDD
-
-#### Wilhelm [@wilhelm2013]
-Core treatment elements:
-* Psychoeducation
-* Cognitive interventions (maladaptive beliefs, importance of appearance or self-worth)
-* Exposure to avoided situations and prevention of rituals
-* Mindfulness and perceptual retraining (e.g., to reduce selective attention to details such as appearance flaws)
-* Relapse prevention
-
-Optional treatment modules:
-* Skin picking
-* Surgery seeking
-
-#### Veale [@veale2010]
-* Imagery rescripting
-* Modifying attentional biases
-* Modifying cognitive processes
-* Avoidance, compulsive, and safety behaviours
-* Modifying appraisals
-* Behavioural experiments to test beliefs about processes such as ruminating or mirror-gazing
-* Self-monitoring and habit reversal for skin-picking
-
+BDD-NET consists of eight interactive modules and focuses on exposure with response prevention (ERP). This means that patients do most of the active treatment work away from their computer or mobile device, for example when they are performing ERP exercises.
 
 ## Who is suitable for BDD-NET
-*The clinical condition that the digital product has been developed for and the recommended range of symptom severities for patients using the digital product.*
 
 BDD-NET is developed to treat adults with body dysmorphic disorder (BDD). Patients may have comorbid conditions, for example other anxiety disorders, depression, or OCD. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. BDD-NET may also be delivered to patients with any level of BDD symptom severity.
 
 Contraindications include having a personality disorder that might interfere with treatment (such as borderline personality disorder), psychotic symptoms, an ongoing substance abuse, or acute suicidal ideation. BDD-NET is text-based and so requires sufficient reading skills and understanding of English. We recommend that the patient is referred to face-to-face treatments if contraindications are discovered.
 
 ## Presenting BDD-NET as an option to the patient
-*How to present the digital product to patients in a way that generates enthusiasm and ensures that the patient promptly starts using the product. Managing patients’ expectations of BDD-NET therapy*
 
 ### Assessing insight
 
@@ -71,6 +44,7 @@ Below is an overview of the eight treatment modules. We recommend that you look 
 As you can see, the emphasis is on doing exposure with response prevention (ERP), which we view as the main component of BDD-NET. You typically want to encourage the patient to progress through the first three modules as fast as possible, check that they have understood the rationale for ERP, and then start doing ERP. Once a patient is doing regular ERP-exercises, you can open up modules 6-7 for them to complete while continuing to do daily ERP. Module 8 can then be opened up with one to two weeks left in treatment.
 
 ## Closing remarks
-...
+
+The strategies outlined here should be viewed as the first building blocks in becoming an effective ICBT therapist using BDD-NET. As in regular clinical practice, we recommend continuous supervision and that therapists discuss difficult cases with colleagues.
 
 We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.

@@ -130,3 +130,15 @@ Fields not needed are:
 * Password: New patient logins are created without passwords. The first time the patient logs onto the platform they will be asked to generate a password
 * Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists
 * Temporary notes: Usually not needed
+
+## OCD-NET and BDD-NET for patients
+
+We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. See below for a quick overview of the registration process.
+
+### Access
+
+### Registration
+
+### Information for patients
+
+### Using the technology as a patient
