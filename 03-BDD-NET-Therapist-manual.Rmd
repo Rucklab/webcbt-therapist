@@ -4,6 +4,29 @@
 
 BDD-NET consists of eight interactive modules and focuses on exposure with response prevention (ERP). This means that patients do most of the active treatment work away from their computer or mobile device, for example when they are performing ERP exercises.
 
+### Comparison between BDD-NET content and current IAPT services content in the treatment of BDD
+
+#### Wilhelm [@wilhelm2013]
+Core treatment elements:
+* Psychoeducation
+* Cognitive interventions (maladaptive beliefs, importance of appearance or self-worth)
+* Exposure to avoided situations and prevention of rituals
+* Mindfulness and perceptual retraining (e.g., to reduce selective attention to details such as appearance flaws)
+* Relapse prevention
+
+Optional treatment modules:
+* Skin picking
+* Surgery seeking
+
+#### Veale [@veale2010]
+* Imagery rescripting
+* Modifying attentional biases
+* Modifying cognitive processes
+* Avoidance, compulsive, and safety behaviours
+* Modifying appraisals
+* Behavioural experiments to test beliefs about processes such as ruminating or mirror-gazing
+* Self-monitoring and habit reversal for skin-picking
+
 ## Who is suitable for BDD-NET
 
 BDD-NET is developed to treat adults with body dysmorphic disorder (BDD). Patients may have comorbid conditions, for example other anxiety disorders, depression, or OCD. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. BDD-NET may also be delivered to patients with any level of BDD symptom severity.
