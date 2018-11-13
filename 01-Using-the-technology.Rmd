@@ -63,7 +63,7 @@ The number of modules and weeks in treatment varies between treatment protocols 
 
 Before, during, and after treatment, patients are asked to fill out questionnaires. When new questionnaires are activated they appear as the patient logs onto the platform. Therapists can review and change which questionnaires should appear at which day in *Assessments* but we recommend that therapists stick to the standard schedule whenever possible.
 
-![Questionnaires for each patient are listed in this view](images/assessments-list.png)
+![Questionnaires for each patient are listed in this view, click the paper icon to view responses](images/assessments-list.png)
 
 ## Warning flags
 
@@ -137,8 +137,24 @@ We encourage therapists using OCD-NET and BDD-NET to login with one of the test 
 
 ### Access
 
-### Registration
+Patients access the platform from the [Patient-URL](https://t1.webcbt.tst.ki.se/), which is different from the therapist URL.
 
-### Information for patients
+![Patients can click the "I lost my password" text to receive a new password.](images/patient-login.png)
 
 ### Using the technology as a patient
+
+![Landing page for patients](images/patient-overview.png)
+
+The landing page for patients includes basic information about the treatment, whether they have been granted access to new modules or have received new messages.
+
+In the menu bar at the top of the page, patients can easily navigate the platform, view treatment content, report problems, and see the *Privacy Notice*.
+
+![Messages in the patient platform](images/patient-messages.png)
+
+![Module text](images/patient-moduletext.png)
+
+![Homework assignments](images/patient-homework.png)
+
+![Worksheets, patients click the + sign to add new tabs with information](images/patient-worksheet.png)
+
+![Patients can report problems, which will display as a flag in the therapist view](images/patient-problems.png)
