@@ -2,7 +2,9 @@
 
 ## Quick start
 
-If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features (separate document). We generally recommend that you use the platform while reading this manual, to test features as you go along.
+If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features. We generally recommend that you use the platform while reading this manual, to test features as you go along.
+
+**Therapists access the platform via this URL: [webcbt.tst.ki.se/t1](webcbt.tst.ki.se/t1)**
 
 ## Platform use overview
 
@@ -19,15 +21,13 @@ These actions can all be accessed in the participant overview, shown below:
 
 A typical day as a therapist includes responding to one or more messages, reviewing homework and opening up a new module. Once in a while therapists contact inactive patients or assess a warning flag.
 
-**Quick note: We use Participant and Patient as synonyms here.**
-
-## Navigation
-
 The majority of day to day tasks are accessed via the *Participant search* menu. The menu is located at the left-hand side of the browser window, and clicking *Participant search* will get you back to the participant overview. To access individual participants, click the pencil next to their name.
 
 ![](images/pencil.png)
 
-This menu may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, changing the way flags appear, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by navigating to *Participant search* in the left-hand menu.
+## Navigation
+
+The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, changing the way flags appear, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by navigating to *Participant search* in the left-hand menu.
 
 ![](images/therapist-menu.png)
 
@@ -39,7 +39,7 @@ To get a quick overview of a long participant list, filter patients that meet ce
 
 ## Writing and responding to messages
 
-A new message from a patient will be indicated by this icon turning red ![](images/message-icon.png). Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter *Being an effective ICBT therapist* for guidelines on how to write messages.
+A new message from a patient will be indicated by this icon turning red ![](images/message-icon.png). Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter [Being an effective ICBT therapist][Being an effective ICBT therapist] for guidelines on how to write messages.
 
 ![](images/therapist-messages.png)
 

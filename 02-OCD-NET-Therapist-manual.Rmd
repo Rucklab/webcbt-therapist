@@ -4,13 +4,13 @@
 
 The treatment in OCD-NET is based on established treatment protocols for OCD [@foa2012], and focuses on exposure with response prevention (ERP). This means patients do most of the active treatment work away from their computer or mobile device, for example when they are performing exposure and response prevention exercises.
 
-### Who is suitable for OCD-NET
+## Who is suitable for OCD-NET
 
 OCD-NET has been developed to treat adult patients with OCD. In previous trials evaluating OCD-NET, participants have had comorbid conditions such as depression and anxiety, while autism spectrum disorder, psychotic symptoms and substance use disorder have been exclusion criteria.
 
 The intended use of OCD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd). We therefore recommend that OCD-NET is primarily used for patients with mild to moderate symptom severity without comorbid autism spectrum disorder, psychotic symptoms, or substance use disorder.
 
-### Presenting OCD-NET as an option to the patient
+## Presenting OCD-NET as an option to the patient
 
 It is important to stress that previous trials of OCD-NET have been conducted on patients that have actively requested internet-based treatment when giving this option. Thus, forcing someone to undertake a treatment they do not agree with is unhelpful at the very least and can also be harmful.
 
@@ -23,7 +23,7 @@ Other suggestions:
 * Write your first message on the first day of treatment to welcome the patient and notify them of ways to contact you with questions
 * Provide encouragement throughout treatment to motivate the patient and establish a therapeutic working alliance
 
-### Modules in OCD-NET
+## Modules in OCD-NET
 
 There are 10 modules in OCD-NET, which patients are expected to complete in 12 weeks. Each module consists of texts and uses well established evidence based interventions for OCD, with exposure and response prevention (ERP) being the core intervention. To progress to the next module participants have to complete homework assignments (such as reading text material, answering a quiz at the end of each module, completing worksheets, or report about ERP exercises) which are viewed by their therapist.
 
