@@ -10,7 +10,7 @@ The platform is designed to be user-friendly for patients with varying technical
 
 If a patient has forgotten their password, they can request a new one at the login screen:
 
-![](images/patient-lost-password.png)
+![](images/patient-login.png)
 
 If they have forgotten their username, simply look at their *Participant stats* and **Login** is their username.
 
