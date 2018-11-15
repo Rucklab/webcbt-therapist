@@ -4,6 +4,12 @@
 
 BDD-NET consists of eight interactive modules and focuses on exposure with response prevention (ERP). This means that patients do most of the active treatment work away from their computer or mobile device, for example when they are performing ERP exercises.
 
+### Differences between BDD-NET and other psychological treatments for BDD
+
+BDD-NET is developed based on two existing treatment manuals [@veale2010; @wilhelm2013] and includes cognitive as well as behavioural techniques. Exposure and response prevention (ERP) techniques are emphasised in BDD-NET because they provide concrete exercises for patients to complete. Results from the two clinical trials of BDD-NET [@enander2014; @enander2016] suggest that ERP is an effective strategy in this guided self-help treatment. Within the ERP exercises, we suggest that therapists maximise inhibitory learning [@craske2014] by focusing on the new insights that patients get from ERP, rather than habituation.
+
+ERP and other techniques in BDD-NET are most effective in patients with at least moderate insight into their BDD who are ready to try new behaviours. For patients with delusional BDD or those who express low commitment to change, other treatment options should be considered (see chapter 14 in @veale2010 for a discussion of these issues).
+
 ## Who is suitable for BDD-NET
 
 BDD-NET is developed to treat adults with body dysmorphic disorder (BDD). Patients may have comorbid conditions, for example other anxiety disorders, depression, or OCD. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. BDD-NET may also be delivered to patients with any level of BDD symptom severity.
