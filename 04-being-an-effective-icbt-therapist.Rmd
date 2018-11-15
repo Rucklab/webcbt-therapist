@@ -52,3 +52,7 @@ If a patient is completely unable to work on the treatment right now, ask him/he
 Some patients may be skeptical about ICBT in general or in their ability to complete a remote treatment without face-to-face support from a therapist. We recommend that therapists validate and acknowledge that these concerns are common early in treatment and, importantly, help skeptical patients experience *early wins* by starting with swift and easy ERP exercises.
 
 It is important to stress that OCD-NET and BDD-NET have never been designed as full alternatives to face-to-face CBT but should instead be seen as a complementary approach. Patients who are skeptical about ICBT from the beginning will probably not benefit from this treatment modality. Alternative formats and treatments are probably a more feasible option in these cases.
+
+### Perceived external pressure
+
+Some patients are pressured to come for an assessment, typically by a close relative or, in the case of BDD, sometimes by a cosmetic surgeon. Patients that are under external pressure to undergo treatment should not be selected for ICBT treatments such as OCD-NET or BDD-NET, since these treatments require self-guided exposure exercises to be effective.
