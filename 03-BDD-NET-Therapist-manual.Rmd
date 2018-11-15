@@ -7,18 +7,17 @@ BDD-NET consists of eight interactive modules and focuses on exposure with respo
 ### Comparison between BDD-NET content and current IAPT services content in the treatment of BDD
 
 #### Wilhelm [@wilhelm2013]
-Core treatment elements:
-* Psychoeducation
-* Cognitive interventions (maladaptive beliefs, importance of appearance or self-worth)
-* Exposure to avoided situations and prevention of rituals
-* Mindfulness and perceptual retraining (e.g., to reduce selective attention to details such as appearance flaws)
-* Relapse prevention
 
-Optional treatment modules:
-* Skin picking
-* Surgery seeking
+The Wilhelm treatment [@wilhelm2013] has three introductory sessions which focus on psychoeducation, case formulation, motivational enhancement, and setting treatment goals. From sessions 4 to 20, the treatment focuses on four core treatment components: cognitive restructuring, exposure/behavioural experiments, ritual prevention, and perceptual retraining. These four techniques are the focus throughout treatment and is what the patient is expected to practice as homework exercises.
+
+In addition to these core components, there are optional treatment modules that can be used with patients that have specific symptoms (e.g., cosmetic treatment seeking, skin picking, or depression).
+
+Sessions 21 and 22 typically focus on relapse prevention and is used with all patients. There is also the option to include booster session after the formal treatment ends.
 
 #### Veale [@veale2010]
+
+
+
 * Imagery rescripting
 * Modifying attentional biases
 * Modifying cognitive processes
