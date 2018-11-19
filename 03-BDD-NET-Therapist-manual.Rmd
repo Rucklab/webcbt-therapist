@@ -38,18 +38,18 @@ To give patients a positive first impression of the treatment, we suggest that t
 
 Below is an overview of the eight treatment modules. We recommend that therapists look at them from a patient's point of view before starting the first treatment.
 
-| **Treatment module** | **Content** |
-| :--- | :--- |
-| 1. Introduction to BDD and the treatment | An introduction to BDD <br> Introduction to the treatment content |
-| 2. A CBT model of BDD | Psychological explanation of the link between thoughts, emotions, and behaviours  |
-| 3. Interpretation traps | Common cognitive biases in BDD |
-| 4. Introduction to ERP | Goal setting and planning of exposure with response prevention |
-| 5. More about ERP | Doing and evaluating exposure with response prevention exercises |
-| 6. Values and Goals | Identifying and acting in accordance with personal values |
-| 7. Difficulties during treatment | Strategies to deal with common difficulties and setbacks |
-| 8. Summary and Relapse Prevention | Treatment summary, evaluation of treatment, and designing a relapse prevention plan |
+| **Treatment module** | **Content** | **Key knowledge and skills** |
+| :--- | :--- | :-- |
+| 1. Introduction to BDD and the treatment | An introduction to BDD <br> Introduction to the treatment content | Identifying safety and avoidance behaviours |
+| 2. A CBT model of BDD | Psychological explanation of the link between thoughts, emotions, and behaviours  | Understanding how safety and avoidance behaviours maintain BDD |
+| 3. Interpretation traps | Common cognitive biases in BDD | Understanding how interpretations can exacerbate anxiety |
+| 4. Introduction to ERP | Goal setting and planning of exposure with response prevention | Understanding the rationale for ERP <br> Formulating specific and measurable goals for treatment <br> Planning a first ERP exercise |
+| 5. More about ERP | Doing and evaluating ERP exercises | Doing ERP <br> Understanding the importance of repeated ERP exercises |
+| 6. Values and Goals | Identifying and acting in accordance with personal values | Adding valued behaviours to weekly plan <br> Understanding the difference between values and goals |
+| 7. Difficulties during treatment | Strategies to deal with common difficulties and setbacks | Problem-solving skills around common difficulties in ERP |
+| 8. Summary and Relapse Prevention | Treatment summary, evaluation of treatment, and designing a relapse prevention plan | Understanding that improvements can happen after treatment <br> Understanding the role of continuous ERP in maintaining progress |
 
-The emphasis is on doing exposure with response prevention (ERP), which we view as the main component of BDD-NET. We suggest that therapists encourage patients to progress through the first three modules as fast as possible, check that they have understood the rationale for ERP, and then start doing ERP. Once patients are doing regular ERP-exercises, therapists can open up modules 6-7 for them to complete while continuing to do daily ERP. Module 8 can then be opened up with one to two weeks left in treatment.
+The emphasis is on doing exposure with response prevention (ERP), which we view as the main component of BDD-NET. We suggest that therapists encourage patients to progress through the first three modules as fast as possible (preferably in two weeks or less), check that they have understood the rationale for ERP, and then start doing ERP. Once patients are doing regular ERP-exercises, therapists can open up modules 6-7 for them to complete while continuing to do daily ERP. Module 8 can then be opened up with one to two weeks left in treatment.
 
 ## Closing remarks
 
