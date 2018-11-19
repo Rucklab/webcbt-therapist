@@ -27,18 +27,18 @@ Other suggestions:
 
 There are 10 modules in OCD-NET, which patients are expected to complete in 12 weeks. Each module consists of texts and uses well established evidence based interventions for OCD, with exposure and response prevention (ERP) being the core intervention. To progress to the next module participants have to complete homework assignments (such as reading text material, answering a quiz at the end of each module, completing worksheets, or report about ERP exercises) which are viewed by their therapist.
 
-| **Treatment module** | **Content** |
-| :--- | :--- |
-| 1. Introduction to the treatment | Introduction to CBT <br> Information about OCD |
-| 2. A CBT model of OCD | Psychological model of OCD with patient examples |
-| 3. Thinking mistakes in OCD | Common cognitive biases and unhelpful interpretations of thoughts in OCD |
-| 4. Introduction to ERP | Goal setting <br> Planning ERP exercises |
-| 5. More about ERP | Best practices in ERP |
-| 6. Imaginal exposure | Instructions to get started with imaginal exposures |
-| 7. Re-exposure | Undoing habitual compulsions |
-| 8. Difficulties during treatment | Common problems in ERP <br> Motivation traps |
-| 9. Long term goals and values | Increasing valued behaviours <br> Aligning ERP exercises with long term values |
-| 10. Summary and wrap up | Maintaining progress <br> Relapse prevention |
+| **Treatment module** | **Content** | **Key knowledge and skills** |
+| :--- | :--- | :--- |
+| 1. Introduction to the treatment | Introduction to CBT <br> Information about OCD | Identifying obsessions and compulsions |
+| 2. A CBT model of OCD | Psychological model of OCD with patient examples | Understanding the role of compulsions in maintaining OCD |
+| 3. Thinking mistakes in OCD | Common cognitive biases and unhelpful interpretations of thoughts in OCD | Understanding how interpretations can exacerbate anxiety |
+| 4. Introduction to ERP | Goal setting <br> Planning ERP exercises | Understanding the rationale for ERP <br> Setting specific, measurable goals for treatment |
+| 5. More about ERP | Best practices in ERP | Understanding why it is important to repeat ERP exercises <br> Gradually increasing the difficulty of ERP exercises |
+| 6. Imaginal exposure | Instructions to get started with imaginal exposures | Understanding when imaginal exposure is a useful ERP strategy |
+| 7. Re-exposure | Undoing habitual compulsions | Applying re-exposure techniques in ERP exercises |
+| 8. Difficulties during treatment | Common problems in ERP <br> Motivation traps | Problem-solving skills for common problems in ERP |
+| 9. Long term goals and values | Increasing valued behaviours <br> Aligning ERP exercises with long term values | Adding valued behaviours to weekly plan |
+| 10. Summary and wrap up | Maintaining progress <br> Relapse prevention | Understanding that improvements can occur after treatment if ERP is practiced continuously |
 
 We view modules 1, 2, 4, and 5 as the core modules in OCD-NET. Modules 1 and 2 consist of two essential features: the patient needs to report at least some intrusions/compulsions in the OCD diary, and the patient needs to understand the CBT model of OCD. These two features are the building blocks for the subsequent ERP exercises in module 4 and 5. We usually recommend patients to do modules 1-5 in a relatively quick pace in order to get to the active treatment as soon as possible. It is not crucial to have a detailed plan for each ERP exercise before starting; you should encourage patients to get started and fine-tune ERP exercises as they go along.
 

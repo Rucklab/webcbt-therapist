@@ -2,17 +2,49 @@
 
 Being a therapist in internet-based CBT (ICBT) differs in several ways from regular face-to-face treatment. The first difference is the mode of communication: asynchronous text messages rather than live face-to-face talking. The second is that therapists are more closely integrated in the treatment content, and will rely more heavily on the written material. Third, there is less therapist oversight during active ERP exercises. We will discuss these implications below.
 
-## Keep your messages short
+## Support messages
+
+Therapists should write to patients on their first day in treatment, introduce themselves (if they have not been in contact before) and present the treatment. For example, therapists can give instructions for how to navigate the platform, how much time the patient should spend on the first module, and how to contact mental health services in case of an emergency.
+
+<details>
+<summary> Click to read an example of the first message sent to a patient </summary>
+
+*Welcome to the treatment!*
+
+*My name is Oskar and I will be your therapist during the 12 weeks that you are in treatment. You can write messages to me whenever you have questions or want to discuss the treatment content. I check the platform every day and will respond as quickly as I can.*
+
+*The treatment is structured as modules, and each module contains homework exercises as well as worksheets. Once you have read a module and completed the homework, it is sent to me and I will give you feedback. As you can see, module 1 is already opened and I look forward to your comments!*
+
+*Again, don't hesitate to contact me if you have any questions.*
+
+*Best, Oskar*
+
+</details>
+
+We recommend that therapists check and respond to messages at least once per day. Patients in the studies on BDD-NET and OCD-NET have all received responses within 24 hours on weekdays. We believe that the frequent feedback from a therapist is important to keep patients engaged in the therapy throughout treatment.
+
+### Keep your messages short
 
 Messages should be concise and to the point but still using a personal touch. The main aim is to provide encouragement and reinforce key behaviours in the treatment, such as registrations in the OCD/BDD diary and performing ERP exercises.
 
 There are some exceptions to this rule. Therapists are advised to write longer messages when needed: to highlight examples in the diary that are informative and relate these to the CBT model of OCD/BDD, or to provide encouragement by linking ERP exercises to a patient's long-term goals and values.
 
-## Write often
+### Write often
 
 Frequent communication is particularly useful at the start of treatment and when patients are in the startup phase of ERP. In many ways, ICBT may be an even more intensive treatment than traditional face-to-face CBT for patients. Our standard procedure is to contact patients at least twice weekly, but more often when needed. For example, therapists may confirm an exposure exercise in the morning and check in during the afternoon for a follow-up. 
 
 There are exceptions to the rule of frequent messages: some patients will prefer to do ERP exercises on their own and will not have many questions. This is perfectly fine; some patients benefit greatly from the ICBT treatment without the therapist support.
+
+### What to include in support messages
+
+We recommend that therapists begin by summarising the content in the patient's message and validate concerns and/or struggles they may have mentioned. Therapists should then address and provide feedback on specific treatment activities (completing content on the platform or practicing skills from treatment in their daily life), with an emphasis on positive reinforcement and encouragement. An effective ending typically includes a suggestion of next steps, encouragement to continue with planned exercises, a question, or a call to action.
+
+| **What to include in support messages** |
+| :---- |
+| Summarise the main points or questions of the patient's message |
+| Validate concerns and/or struggles mentioned |
+| Provide positive feedback and encouragement on engagement with the treatment and practice of treatment skills |
+| End with a call to action, suggestion of next steps, or a question |
 
 ## Therapists and the rest of the content in ICBT
 
@@ -26,11 +58,40 @@ With the restrictions on therapist input in ICBT, what therapists attend to in m
 
 Therapists should therefore strive to balance feedback to aid understanding with actionable advice that patients can put into practice. For example, a lack of clarity in an ERP exercise or choosing the wrong ERP exercise could result in the patient getting stuck and asking questions. A therapist could then address both the uncertainties and promote behaviour change through ERP by suggesting a variation of the ERP exercise or suggesting a new one that is better suited for the situation. This is likely to be a more effective strategy compared to just addressing the questions one by one without linking them to ERP exercises or behaviour change.
 
-## Lack of therapist-guided exposure exercises
+### Lack of therapist-guided exposure exercises
 
 We do not have the privilege of guiding patients through ERP exercises in ICBT. This means that therapists will have to focus on the essentials when giving corrective feedback to patients. Correcting every little detail before each exercise will in this context probably be counter-productive and might in fact confuse the patient. Instead, our focus is to get patients going with the ERP exercises. Wrinkles can be ironed out along the way.
 
-## Dealing with patients with low engagement
+## Reinforcing progress
+
+Therapists are advised to provide lots of encouragement when patients complete core activities in ICBT such as the OCD/BDD diary and performing ERP exercises. It is helpful to clarify how these activities contribute to the patient's long-term goals, to repeat main takeaways from the modules, and to communicate in a personal tone in order to avoid rigid responses. For example, we often give personal examples of intrusive thoughts (preferably bizarre ones) in order to normalise that having unwanted thoughts is not dangerous.
+
+## Dealing with patients who struggle in treatment
+
+This list of struggles in ICBT is based on our clinical experience of developing and working with ICBT for OCD and BDD. We will update the list when we become aware of other common struggles, so please discuss difficult cases with your colleagues and in supervision. If you want to make us aware of a common struggle not listed below, send an email to <ocdnet.support@webcbt.se>.
+
+### Patients who ask many questions
+
+Asking questions to receive reassurance is a common strategy for anxiety reduction in both BDD and OCD. Therapists should therefore expect more frequent questions from patients when anxiety levels are likely to be high: in the beginning of treatment (when they learn more about their OCD/BDD), and when they are about to start ERP exercises. For example, it is common for patients to ask whether their OCD/BDD beliefs are realistic or not, and whether a particular ERP exercise is safe to do. When this is the case, we recommend that therapists validate the anxiety patients feel when they challenge their OCD/BDD, but that they refrain from providing reassurance.
+
+Other times, there is genuine confusion about the point of a particular ERP exercise or the content in a module (most common in the modules about interpretations). When this is the case, make sure that the patient has learned key skills and takeaways needed for ERP: understanding the CBT model and the role of safety behaviours/compulsions in maintaining the disorder, the rationale for ERP, having specific and measurable goals, and having a plan for ERP exercises. Once these foundations are in place, therapists should encourage patients to get started with ERP and adapt exercises as they go along.
+
+### Patients who struggle with ERP exercises
+
+Behaviour change is difficult, and when patients start to challenge their OCD/BDD with ERP they are likely to experience the exercises as difficult at some point. In fact, a patient that never has any difficulties in ERP is likely not doing exercises that are challenging enough!
+
+There are entire modules dedicated to common difficulties during treatment, and therapists can refer to the text in those modules for suggestions on how to respond when patients experience difficulties. Therapists should write the responses in their own words rather than copying text from the module.
+
+<details>
+<summary> Click to read an example of a therapist response when a patient has expressed worry about doing the right ERP exercises </summary>
+
+*Hi, excellent work so far! Having thoughts about not doing the right ERP exercises is something that most patients experience at one point or another. This is to be expected and something that your brain does when you perform ERP. You can view them as one type of obsessive thoughts that we deal with in the same way we deal with all obsessive thoughts: we let them exist and leave them alone.*
+
+*(Gives a few suggestions of ERP exercises–previously listed in the exposure hierarchy–to be performed the same day.) Perhaps you could do one of these exercises today? I look forward to hearing about how it went!*
+
+</details>
+
+### Patients with low engagement
 
 The best way to deal with low engagement is to prevent it from happening to begin with. Strategies to prevent low engagement include:
 
@@ -41,13 +102,13 @@ The best way to deal with low engagement is to prevent it from happening to begi
 
 If a patient becomes less active on the treatment platform, it does not necessarily mean that they have stopped working with the treatment or have given up on the treatment. Some inactive patients are doing a lot of treatment work in their daily life but do not report this spontaneously to their therapist.
 
-### Strategies when patients express lack of time to work on the treatment
+### Patients express lack of time to work on the treatment
 
 One common reason for low engagement is that the patient struggles to find the time to work on ICBT. We recommend that therapists encourage any small steps the patient takes and that they prioritise ERP exercises away from the computer over reading additional modules.
 
 If a patient is completely unable to work on the treatment right now, ask him/her if it possible to delay the start of treatment. The absolute majority of patients responding to OCD-NET and BDD-NET experience this gain within the first 5 weeks after starting treatment. Thus, even if the patient is delayed and start the treatment at week 5, it is still possible to achieve a significant improvement given that the patient works with the treatment intensively.
 
-### Strategies when patients express skepticism about ICBT
+### Patients express skepticism about ICBT
 
 Some patients may be skeptical about ICBT in general or in their ability to complete a remote treatment without face-to-face support from a therapist. We recommend that therapists validate and acknowledge that these concerns are common early in treatment and, importantly, help skeptical patients experience *early wins* by starting with swift and easy ERP exercises.
 
@@ -56,3 +117,24 @@ It is important to stress that OCD-NET and BDD-NET have never been designed as f
 ### Perceived external pressure
 
 Some patients are pressured to come for an assessment, typically by a close relative or, in the case of BDD, sometimes by a cosmetic surgeon. Patients that are under external pressure to undergo treatment should not be selected for ICBT treatments such as OCD-NET or BDD-NET, since these treatments require self-guided exposure exercises to be effective.
+
+### Suicidality or self-harm
+
+Patients who express ongoing suicidal thoughts or have ongoing self-harm behaviour should be referred to treatments with more intensive monitoring and are generally not recommended to start ICBT. However, some patients who undergo CBT for OCD and BDD express a short-term increase in suicidal ideation or self-harm behaviour while in treatment. If this is detected either through patient-therapist messages or in weekly measurements, we recommend that therapists follow local guidelines or use the following outline as a guide:
+
+1. Call the patient immediately
+2. Explain that it is standard procedure to call when a patient indicates heightened suicidal ideation or increased risk of self-harm
+3. Follow a hierarchy of questions, such as those in the M.I.N.I. interview [@sheehan1998]
+4. If the immediate risk is low (i.e. PHQ-9 score of 2), make an agreement to check back in with the patient in a few days and give them contact information to the nearest 24-hour psychiatric care unit
+5. If the immediate risk is high (i.e. PHQ-9 score of 3), advise the patient to seek help at your centre or at a 24-hour psychiatric care unit.
+
+### Deterioration in symptom measures
+
+A deterioration in symptom measures can sometimes occur when patients start doing ERP exercises and is usually not an issue if symptoms are reduced in the following weeks.
+
+If symptom levels remain high despite frequent ERP exercises, share this information with the patient and discuss what might explain this pattern. We list some common explanations below.
+
+| Reason for increased symptoms | Proposed solution |
+| :---- | :---- |
+| Subtle avoidance or safety behaviours during ERP | Help the patient identify and remove these by probing mental safety behaviours: *What goes through your mind as you do ERP, are you trying to manage your anxiety in any way?* |
+| Lack of habituation despite proper ERP | Suggest longer ERP exercises or variations of the same ERP exercise <br> Ask for other signs of improvement: *What have you learned from staying in the situation? <br> What new skills have you acquired from doing this ERP exercise?* |
