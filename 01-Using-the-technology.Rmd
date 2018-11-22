@@ -4,7 +4,7 @@
 
 If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features. We generally recommend that you use the platform while reading this manual, to test features as you go along.
 
-**Therapists access the platform via this URL: [webcbt.tst.ki.se/t1](webcbt.tst.ki.se/t1)**. This is where therapists enter their username and password to enter the treatment platform.
+**Therapists access the platform via this URL: [https://webcbt.tst.ki.se/t1](https://webcbt.tst.ki.se/t1)**. This is where therapists enter their username and password to enter the treatment platform.
 
 ## Platform use overview
 

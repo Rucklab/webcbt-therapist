@@ -1,6 +1,6 @@
 ---
 title: "OCD-NET & BDD-NET therapist resources"
-author: "Oskar Flygare, Christian Rück, Jesper Enander & Erik Andersson"
+author: "Oskar Flygare, Christian Rück, Brjánn Ljótsson, Jesper Enander & Erik Andersson"
 date: "Last updated `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
