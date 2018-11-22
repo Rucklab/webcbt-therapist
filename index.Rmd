@@ -14,7 +14,7 @@ description: "Online resources for therapists."
 
 # Introduction
 
-Welcome to our online therapist resource for the *Web-CBT* platform for *OCD-NET* and *BDD-NET*. This website contains resources to support therapists in their work, both technical and clinical aspects of doing internet-based cognitive behaviour therapy.
+Welcome to our online therapist resource for *OCD-NET* and *BDD-NET*. This website contains resources to support therapists in their work, both technical and clinical aspects of doing internet-based cognitive behaviour therapy.
 
 We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.
 
@@ -30,26 +30,3 @@ The intended use of OCD-NET and BDD-NET are within a stepped care model as an al
 
 Both OCD-NET and BDD-NET were initially developed by researchers at Karolinska Institutet in Stockholm, Sweden. OCD-NET has been evaluated in six clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patient and with the advantage of being accessible from any device connected to the internet [@andersson2011a; @andersson2012; @andersson2014a; @andersson2015a; @ruck2018]. Similarly, BDD-NET has been evaluated in two clinical trials with comparable results [@enander2014; @enander2016]. Both treatments were initially developed in Swedish but have been translated to English and evaluated in pilot studies in New York (OCD-NET; @patel2017) and an international pilot study (BDD-NET; Gentile et al., 2018, *under review*).
 
-## Tasks for Kristin
-
-### Using the platform as therapist and patient
-
-**As therapist:**
-
-* Log in as therapist 3
-* Write a message to BDD-patient 1
-* Review homework module 3 for patient 1
-* Remove a suicidality flag and comment "Suicide risk assessment completed via telephone. Low risk" for patient 1
-
-**As patient:**
-
-* Log in as BDD-patient 1
-* Answer questionnaires if they appear
-* Complete homework for module 4 (you can write whatever)
-* Write a message to the therapist
-
-For these tasks you will need to look at the chapter called "Using the technology" and perhaps "Technical support". I would like feedback on whether anything is missing to perform the tasks, if anything is redundant, if the order of information is logical, etc. Basically whether you think this works as a guide or if you have suggestions for how to make the "onboarding" of new ICBT therapists easier in any way.
-
-### Reviewing the written material
-
-Read the other chapters (OCD-NET and BDD-NET manuals, Being an effective ICBT therapist). I would like to get feedback on the language used and the structure here. Are things presented in logical order? Is anything unclear and needs more explanation?

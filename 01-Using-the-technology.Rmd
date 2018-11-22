@@ -4,7 +4,7 @@
 
 If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features. We generally recommend that you use the platform while reading this manual, to test features as you go along.
 
-**Therapists access the platform via this URL: [webcbt.tst.ki.se/t1](webcbt.tst.ki.se/t1)**
+**Therapists access the platform via this URL: [webcbt.tst.ki.se/t1](webcbt.tst.ki.se/t1)**. This is where therapists enter their username and password to enter the treatment platform.
 
 ## Platform use overview
 
@@ -17,17 +17,17 @@ There are five common scenarios during the course of treatment:
 - Responding to warning flags
 
 These actions can all be accessed in the participant overview, shown below:
-![Participant overview](images/participant-overview.png)
+![Participant overview: this is the platform from a therapist's perspective where you can navigate to the different tasks involved in ICBT](images/participant-overview.png)
 
 A typical day as a therapist includes responding to one or more messages, reviewing homework and opening up a new module. Once in a while therapists contact inactive patients or assess a warning flag.
 
-The majority of day to day tasks are accessed via the *Participant search* menu. The menu is located at the left-hand side of the browser window, and clicking *Participant search* will get you back to the participant overview. To access individual participants, click the pencil next to their name.
+The majority of day to day tasks are accessed via the *Participant search* menu. The menu is located at the left-hand side of the browser window. Closing the current participant and clicking *Participant search* will get you back to the participant overview. To access individual participants, click the pencil next to their name.
 
 ![](images/pencil.png)
 
 ## Navigation
 
-The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, changing the way flags appear, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by navigating to *Participant search* in the left-hand menu.
+The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, changing the way flags appear, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by closing the current participant and navigating to *Participant search* in the left-hand menu.
 
 ![](images/therapist-menu.png)
 
@@ -39,7 +39,7 @@ To get a quick overview of a long participant list, filter patients that meet ce
 
 ## Writing and responding to messages
 
-A new message from a patient will be indicated by this icon turning red ![](images/message-icon.png). Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter [Being an effective ICBT therapist][Being an effective ICBT therapist] for guidelines on how to write messages.
+A new message from a patient will be indicated by this icon turning red ![](images/message-icon.png) in the participant overview. Click the pencil next to the participant's name to access that patient. Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter [Being an effective ICBT therapist][Being an effective ICBT therapist] for guidelines on how to write messages.
 
 ![](images/therapist-messages.png)
 
@@ -47,7 +47,9 @@ A new message from a patient will be indicated by this icon turning red ![](imag
 
 A completed homework assignment is shown in the **Homework** column in the participant overview. Click the pencil next to the participant and navigate to *Treatments -> Treatment access* to review the homework and mark it as completed.
 
-![Completed homework assignments will show up for review in the treatment overview](images/homework-complete.png)
+![Completed homework assignments will show up for review in the treatment overview, click the checkmark or red button to mark it as completed or send back to the participant.](images/homework-complete.png)
+
+Please note that patients are not notified if you mark the homework as incomplete. Write a message to explain what additional information you need from the patient when they send it in again.
 
 Internet-based CBT relies heavily on self-directed activities and homework review is a good time to check whether the patient has grasped important concepts and are able to apply them to their own situation.
 
@@ -61,9 +63,9 @@ The number of modules and weeks in treatment varies between treatment protocols 
 
 ## Questionnaires
 
-Before, during, and after treatment, patients are asked to fill out questionnaires. When new questionnaires are activated they appear as the patient logs onto the platform. Therapists can review and change which questionnaires should appear at which day in *Assessments* but we recommend that therapists stick to the standard schedule whenever possible.
+Before, during, and after treatment, patients are asked to fill out questionnaires. When new questionnaires are activated they appear as the patient logs onto the platform. Therapists can review and change which questionnaires should appear at which day in *Assessments* but we recommend that therapists stick to the standard schedule whenever possible. Questionnaires for each patient are listed in this view, click the paper icon to view responses.
 
-![Questionnaires for each patient are listed in this view, click the paper icon to view responses](images/assessments-list.png)
+![Click the paper icon to view responses](images/assessments-list.png)
 
 ## Warning flags
 
@@ -97,9 +99,9 @@ The most important type of warning flag is due to heightened suicidality. The pl
 4. If the immediate risk is low (i.e. PHQ-9 score of 2), make an agreement to check back in with the patient in a few days and give them contact information to the nearest 24-hour psychiatric care unit
 5. If the immediate risk is high (i.e. PHQ-9 score of 3), advise the patient to seek immediate help at your centre or at a 24-hour psychiatric care unit.
 
-Once the level of suicidality is deemed to be low enough to not require further attention, therapists can remove the warning flag under the *Flags* tab for the participant.
+Once the level of suicidality is deemed to be low enough to not require further attention, therapists can remove the warning flag under the *Flags* tab for the participant. Flags are listed under the Flags tab, click on the pencil to edit a flag.
 
-![Flags are listed under the Flags tab, click on the pencil to edit flag.](images/flags-tab.png)
+![Click on the pencil to edit a flag.](images/flags-tab.png)
 
 ![Once you have managed a flag, you can make a note that lists actions taken, and remove the flag.](images/remove-flag.png)
 

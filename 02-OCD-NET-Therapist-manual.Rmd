@@ -6,9 +6,9 @@ The treatment in OCD-NET is based on established treatment protocols for OCD [@f
 
 ## Who is suitable for OCD-NET
 
-OCD-NET has been developed to treat adult patients with OCD. In previous trials evaluating OCD-NET, participants have had comorbid conditions such as depression and anxiety, while autism spectrum disorder, psychotic symptoms and substance use disorder have been exclusion criteria.
+OCD-NET has been developed to treat adult patients with OCD. In previous trials evaluating OCD-NET, participants have had comorbid conditions such as depression and anxiety, while autism spectrum disorder, psychotic symptoms and substance use disorder have been exclusion criteria. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. OCD-NET may also be delivered to patients with any level of OCD symptom severity.
 
-The intended use of OCD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd). We therefore recommend that OCD-NET is primarily used for patients with mild to moderate symptom severity without comorbid autism spectrum disorder, psychotic symptoms, or substance use disorder.
+The intended use of OCD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd). We recommend that OCD-NET is primarily used for patients without comorbid autism spectrum disorder, psychotic symptoms, or substance use disorder. OCD-NET is text-based and requires sufficient reading skills and understanding of English. We recommend that the patient is referred to face-to-face treatments if there are indications that OCD-NET may not be a suitable treatment option.
 
 ## Presenting OCD-NET as an option to the patient
 
