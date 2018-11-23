@@ -81,8 +81,6 @@ Once a warning flag has been noticed and dealt with, indicate the action taken i
 * Patient has not written a message in 7 days: ![](images/message-inactivity-flag.png)
 * Patient has not responded to measurement in time: ![](images/measurement-delay-flag.png)
 * Patient has no assigned therapist: ![](images/notherapist-flag.png)
-* Treatment ends within 1 week: ![](images/oneweek-therapyends-flag.png)
-* Treatment has ended: ![](images/therapy-ended-flag.png)
 
 ### Suicidality warning flags
 

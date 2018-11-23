@@ -36,7 +36,7 @@ To give patients a positive first impression of the treatment, we suggest that t
 
 ## Modules in BDD-NET
 
-Below is an overview of the eight treatment modules. We recommend that therapists look at them from a patient's point of view before starting the first treatment.
+Below is an overview of the eight treatment modules. We recommend that therapists look at them from a patient's point of view before starting the first treatment. A patient is ready for the next module once they have demonstrated the key knowledge and skills through homework, worksheets and/or messages to the therapist.
 
 | **Treatment module** | **Content** | **Key knowledge and skills** |
 | :--- | :--- | :-- |
