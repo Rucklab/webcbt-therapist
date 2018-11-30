@@ -86,7 +86,7 @@ Andersson}
   \postauthor{\par}
       \predate{\centering\large\emph}
   \postdate{\par}
-    \date{Last updated 2018-11-23}
+    \date{Last updated 2018-11-30}
 
 \usepackage{booktabs}
 \usepackage{amsthm}
@@ -186,6 +186,9 @@ features as you go along.
 \url{https://webcbt.tst.ki.se/t1}}. This is where therapists enter their
 username and password to enter the treatment platform.
 
+\emph{Note that URLs will change once OCD-NET and BDD-NET are used in
+clinical work, the current ones are for testing the platform only.}
+
 \hypertarget{platform-use-overview}{%
 \section{Platform use overview}\label{platform-use-overview}}
 
@@ -225,12 +228,12 @@ individual participants, click the pencil next to their name.
 
 The menu bar on the left may expand depending on administrative rights.
 Other parts of the menu include administrative settings such as editing
-treatment content, editing assessments, changing the way flags appear,
-and changing settings to the site itself. These will not be relevant to
-most therapists and we do not cover them in detail here. Just remember
-that you can always go back to the default view by closing the current
-participant and navigating to \emph{Participant search} in the left-hand
-menu.
+treatment content, editing assessments, editing conditions for when
+participant assessments are flagged, and changing settings to the site
+itself. These will not be relevant to most therapists and we do not
+cover them in detail here. Just remember that you can always go back to
+the default view by closing the current participant and navigating to
+\emph{Participant search} in the left-hand menu.
 
 \includegraphics{images/therapist-menu.png}
 
@@ -251,7 +254,7 @@ assigned to them.
 \section{Writing and responding to
 messages}\label{writing-and-responding-to-messages}}
 
-A new message from a patient will be indicated by this icon turning red
+A new message from a patient will be indicated by this icon
 \includegraphics{images/message-icon.png} in the participant overview.
 Click the pencil next to the participant's name to access that patient.
 Navigate to \emph{Treatments -\textgreater{} participant messages} to
@@ -293,8 +296,6 @@ homework assignment(s), they are ready for the next module. To grant
 access to a new module, navigate to \emph{Treatments -\textgreater{}
 Treatment access} and check the box next to the next module. A date will
 appear next to the module indicating when the module was activated.
-Patients automatically get a text message when they get access to a new
-module.
 
 \begin{figure}
 \centering
@@ -330,40 +331,21 @@ the paper icon to view responses.
 \section{Warning flags}\label{warning-flags}}
 
 The ICBT platform will display a \emph{warning flag} next to a patient's
-name for certain events. The most common flags are due to inactivity or
-non-response to questionnaires. These serve as prompts to therapists to
-take further action, for example reaching out by phone to a patient or
-sending them another text message reminder.
+name for certain events. The most common flags are due to non-response
+to questionnaires. These serve as prompts to therapists to take further
+action, for example reaching out by phone to a patient or sending them
+another text message reminder.
 
 Once a warning flag has been noticed and dealt with, indicate the action
 taken in the \emph{temporary flag text} box in the \emph{Participant
-stats} tab (shown below). Please note, however that inactivity flags
-automatically disappear once then patient uses the platform again.
-
-\begin{figure}
-\centering
+stats} tab (shown below).
 \includegraphics{images/temporary-flag-text.png}
-\caption{Temporary flag texts aid communication between therapists when
-they manage flags}
-\end{figure}
-
-\hypertarget{common-warning-flags}{%
-\subsection{Common warning flags}\label{common-warning-flags}}
 
 \begin{itemize}
 \tightlist
 \item
-  Patient has not logged in for 7 days:
-  \includegraphics{images/login-inactivity-flag.png}
-\item
-  Patient has not written a message in 7 days:
-  \includegraphics{images/message-inactivity-flag.png}
-\item
   Patient has not responded to measurement in time:
   \includegraphics{images/measurement-delay-flag.png}
-\item
-  Patient has no assigned therapist:
-  \includegraphics{images/notherapist-flag.png}
 \end{itemize}
 
 \hypertarget{suicidality-warning-flags}{%
@@ -428,9 +410,27 @@ actions taken, and remove the flag.}
 Supervision through the platform makes it easy to connect feedback from
 the supervisor to specific therapist messages and actions. The
 supervision page is found at \emph{Treatment -\textgreater{} Supervision
-messages} for each participant.
+messages} for each participant. It will look different for the therapist
+that is supervised and the supervisor.
 
-\includegraphics{images/supervision.png}
+\begin{figure}
+\centering
+\includegraphics{images/supervision-therapist.png}
+\caption{Therapists have a simple interface to write and receive
+messages from their supervisor}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{images/supervisor-view.png}
+\caption{Messages between therapist and supervisor to the left,
+participant messages to the right for reference}
+\end{figure}
+
+The notes are only visible to the supervisor, so that he/she can write
+comments about the supervision for future reference. If you are a
+supervisor, new messages to review are indicated by an icon for
+messages. \includegraphics{images/supervision-message.png}
 
 \hypertarget{assign-new-therapist}{%
 \section{Assign new therapist}\label{assign-new-therapist}}
@@ -448,8 +448,8 @@ to be removed and check whoever is to be assigned the patient.
 \begin{figure}
 \centering
 \includegraphics{images/assign-therapist.png}
-\caption{The number 2 next to Oskar Flygare indicates that he is
-assigned to 2 patients}
+\caption{The numbers next to therapists indicate how many patients they
+are assigned to}
 \end{figure}
 
 \hypertarget{create-new-patient-login}{%
@@ -458,25 +458,26 @@ assigned to 2 patients}
 To create a new patient login on the platform, go to the participant
 overview by selecting \emph{Participant search} in the left-hand menu.
 Select \emph{Create new participant} at the bottom of the participant
-list.
+list. Therapists can use the ``change password'' button to generate
+secure passwords for patients.
 
+\begin{figure}
+\centering
 \includegraphics{images/new-participant.png}
+\caption{Therapists can generate secure passwords for patients using the
+``change password'' button}
+\end{figure}
 
 Fields not needed are:
 
 \begin{itemize}
 \tightlist
 \item
-  Participant ID: Internal ID for the platform. Usually not needed.
-\item
-  Password: New patient logins are created without passwords. The first
-  time the patient logs onto the platform they will be asked to generate
-  a password
-\item
   Temporary flag text: Usually not needed at creation but might come in
   handy later for communicating between therapists
 \item
-  Temporary notes: Usually not needed
+  Temporary notes: Usually not needed but can be used to store
+  information
 \end{itemize}
 
 \hypertarget{ocd-net-and-bdd-net-for-patients}{%
