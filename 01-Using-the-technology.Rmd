@@ -6,6 +6,8 @@ If you want to explore the platform yourself, you can use test therapist and tes
 
 **Therapists access the platform via this URL: [https://webcbt.tst.ki.se/t1](https://webcbt.tst.ki.se/t1)**. This is where therapists enter their username and password to enter the treatment platform.
 
+*Note that URLs will change once OCD-NET and BDD-NET are used in clinical work, the current ones are for testing the platform only.*
+
 ## Platform use overview
 
 There are five common scenarios during the course of treatment:
@@ -27,7 +29,7 @@ The majority of day to day tasks are accessed via the *Participant search* menu.
 
 ## Navigation
 
-The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, changing the way flags appear, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by closing the current participant and navigating to *Participant search* in the left-hand menu.
+The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, editing conditions for when participant assessments are flagged, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by closing the current participant and navigating to *Participant search* in the left-hand menu.
 
 ![](images/therapist-menu.png)
 
@@ -39,7 +41,7 @@ To get a quick overview of a long participant list, filter patients that meet ce
 
 ## Writing and responding to messages
 
-A new message from a patient will be indicated by this icon turning red ![](images/message-icon.png) in the participant overview. Click the pencil next to the participant's name to access that patient. Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter [Being an effective ICBT therapist][Being an effective ICBT therapist] for guidelines on how to write messages.
+A new message from a patient will be indicated by this icon ![](images/message-icon.png) in the participant overview. Click the pencil next to the participant's name to access that patient. Navigate to *Treatments -> participant messages* to view the message and write a response. See the chapter [Being an effective ICBT therapist][Being an effective ICBT therapist] for guidelines on how to write messages.
 
 ![](images/therapist-messages.png)
 
@@ -55,7 +57,7 @@ Internet-based CBT relies heavily on self-directed activities and homework revie
 
 ## Treatment modules
 
-When a patient has read a module and completed the corresponding homework assignment(s), they are ready for the next module. To grant access to a new module, navigate to *Treatments -> Treatment access* and check the box next to the next module. A date will appear next to the module indicating when the module was activated. Patients automatically get a text message when they get access to a new module.
+When a patient has read a module and completed the corresponding homework assignment(s), they are ready for the next module. To grant access to a new module, navigate to *Treatments -> Treatment access* and check the box next to the next module. A date will appear next to the module indicating when the module was activated.
 
 ![Check the box to the left to open a new module](images/module-access.png)
 
@@ -69,18 +71,12 @@ Before, during, and after treatment, patients are asked to fill out questionnair
 
 ## Warning flags
 
-The ICBT platform will display a *warning flag* next to a patient's name for certain events. The most common flags are due to inactivity or non-response to questionnaires. These serve as prompts to therapists to take further action, for example reaching out by phone to a patient or sending them another text message reminder.
+The ICBT platform will display a *warning flag* next to a patient's name for certain events. The most common flags are due to non-response to questionnaires. These serve as prompts to therapists to take further action, for example reaching out by phone to a patient or sending them another text message reminder.
 
-Once a warning flag has been noticed and dealt with, indicate the action taken in the *temporary flag text* box in the *Participant stats* tab (shown below). Please note, however that inactivity flags automatically disappear once then patient uses the platform again.
-
+Once a warning flag has been noticed and dealt with, indicate the action taken in the *temporary flag text* box in the *Participant stats* tab (shown below).
 ![Temporary flag texts aid communication between therapists when they manage flags](images/temporary-flag-text.png)
 
-### Common warning flags
-
-* Patient has not logged in for 7 days: ![](images/login-inactivity-flag.png)
-* Patient has not written a message in 7 days: ![](images/message-inactivity-flag.png)
 * Patient has not responded to measurement in time: ![](images/measurement-delay-flag.png)
-* Patient has no assigned therapist: ![](images/notherapist-flag.png)
 
 ### Suicidality warning flags
 
@@ -105,10 +101,13 @@ Once the level of suicidality is deemed to be low enough to not require further 
 
 ## Supervision
 
-Supervision through the platform makes it easy to connect feedback from the supervisor to specific therapist messages and actions. The supervision page is found at *Treatment -> Supervision messages* for each participant. 
+Supervision through the platform makes it easy to connect feedback from the supervisor to specific therapist messages and actions. The supervision page is found at *Treatment -> Supervision messages* for each participant. It will look different for the therapist that is supervised and the supervisor.
 
-![](images/supervision.png)
+![Therapists have a simple interface to write and receive messages from their supervisor](images/supervision-therapist.png)
 
+![Messages between therapist and supervisor to the left, participant messages to the right for reference](images/supervisor-view.png)
+
+The notes are only visible to the supervisor, so that he/she can write comments about the supervision for future reference. If you are a supervisor, new messages to review are indicated by an icon for messages. ![](images/supervision-message.png)
 
 ## Assign new therapist
 
@@ -116,20 +115,18 @@ The most typical scenario is that each patient is treated by one therapist throu
 
 To assign another therapist or change therapist, navigate to the patient in question and click the *Participant stats* tab. At the bottom of that page, there is a list of therapists and those assigned to the patient will have a checkmark next to them. Simply un-check whoever is to be removed and check whoever is to be assigned the patient.
 
-![The number 2 next to Oskar Flygare indicates that he is assigned to 2 patients](images/assign-therapist.png)
+![The numbers next to therapists indicate how many patients they are assigned to](images/assign-therapist.png)
 
 ## Create new patient login
 
-To create a new patient login on the platform, go to the participant overview by selecting *Participant search* in the left-hand menu. Select *Create new participant* at the bottom of the participant list.
+To create a new patient login on the platform, go to the participant overview by selecting *Participant search* in the left-hand menu. Select *Create new participant* at the bottom of the participant list. Therapists can use the "change password" button to generate secure passwords for patients.
 
-![](images/new-participant.png)
+![Therapists can generate secure passwords for patients using the "change password" button](images/new-participant.png)
 
 Fields not needed are:
 
-* Participant ID: Internal ID for the platform. Usually not needed.
-* Password: New patient logins are created without passwords. The first time the patient logs onto the platform they will be asked to generate a password
 * Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists
-* Temporary notes: Usually not needed
+* Temporary notes: Usually not needed but can be used to store information
 
 ## OCD-NET and BDD-NET for patients
 
