@@ -23,6 +23,8 @@ Therapists should write to patients on their first day in treatment, introduce t
 
 We recommend that therapists check and respond to messages at least once per day. Patients in the studies on BDD-NET and OCD-NET have all received responses within 24 hours on weekdays. We believe that the frequent feedback from a therapist is important to keep patients engaged in the therapy throughout treatment.
 
+The most common questions that patients pose in ICBT relate to understanding and applying the treatment material, clarifying the therapeutic process, and addressing technical challenges [@soucy2019].
+
 ### Keep your messages short
 
 Messages should be concise and to the point but still using a personal touch. The main aim is to provide encouragement and reinforce key behaviours in the treatment, such as registrations in the OCD/BDD diary and performing ERP exercises.
@@ -135,17 +137,20 @@ If symptom levels remain high despite frequent ERP exercises, share this informa
 
 We recommend that patients who have been inactive for **20 days** end treatment. However, the treatment platform will create a flag after 7 days of inactivity to alert therapists. Before ending treatment, there are several steps that therapists can take to avoid long periods of inactivity.
 
-**When the inactivity flag appears:**
+**When the inactivity flag appears:**  
+
 * Ensure that SMS reminders are working properly: Do you still have the correct number? Are the text messages being sent?  
 * Check previous messages: Has the patient indicated in a previous message that they will be away? Do they have a plan for how to work on treatment while being away from a computer?  
 * Write a message on the platform where you encourage the patient to log onto the platform and report their progress in treatment.  
 * Wait 4 days.  
 
-**4 days after inactivity flag:**
+**4 days after inactivity flag:**  
+
 * Make a telephone call to the patient. If no response, write a text message with information about when you will call. Then try at the indicated time.  
 * Send a letter to the patient with instructions to log onto the platform. Provide information that treatment will end prematurely if the patient is inactive for 20 days.  
 
-**After 20 days of inactivity:**
+**After 20 days of inactivity:**  
+
 * Check that the assessment dates are correct.  
 * Write one more message to the patient where you inform that the treatment has ended and ask that they complete assessments.  
 * Move the patient to "post-assessment" group.  
@@ -158,6 +163,12 @@ If this is detected either through patient-therapist messages or in weekly measu
 
 ### Other reasons
 
-A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or is skeptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support.
+A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or is skeptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support. Seek supervision when necessary.
 
-**FÖLJ LATHUND IKBT 4.1.2 SIDA 29-30 I G-MAPPEN**
+**If a patient asks to end treatment early, call them:**  
+
+* What is the reason, are there any misunderstandings about the treatment that you can clarify? Are they concerned about not doing well enough in the treatment? See if you can motivate the patient to at least try a few exposure exercises.  
+* Does the patient feel that the treatment does not address their main concerns? See if you can understand what type of help the patient wants and assess whether the ongoing treatment is likely to address that or not.  
+* Is the patient likely to benefit from the treatment if they perform key behaviours (e.g., exposure with response prevention)? If not, it is advisable to end treatment early rather than complete the full duration.  
+
+You may come to the conclusion that the treatment is not suitable for the patient (see a list in the OCD-NET and BDD-NET manuals), or that the patient is unlikely to benefit from OCD-NET or BDD-NET. Weekly assessments should then be de-activated on the platform, but keep the post-assessment as is. If no further action is necessary, inform the patient that they will be asked to return to the clinic for a post-assessment after the treatment period is over.

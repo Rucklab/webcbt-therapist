@@ -10,14 +10,14 @@ OCD-NET has been developed to treat adult patients with OCD. In previous trials 
 
 ## Who is not suitable for OCD-NET
 
-We recommend that the patient is assessed and managed according to local clinical guidelines if there are indications that OCD-NET may not be a suitable treatment option. In some cases, treatment can be delayed if an issue is expected to be resolved in a timely manner, for example if a patient will have sufficient time to work on the treatment in a few weeks time.
+We recommend that the patient is assessed and managed according to local clinical guidelines if there are indications that OCD-NET may not be a suitable treatment option. In some cases, treatment can be delayed if an issue is expected to be resolved in a timely manner, for example if a patient will have sufficient time to work on the treatment in a few weeks time. Indications that an individual is not suitable for OCD-NET include:
 
-* Patients with moderate to high suicidal ideations where written contact with a therapist 1-3 times per week is not enough to safely monitor and address risk.  
-* Patients that are expected to struggle with the large amounts of self-directed work throughout treatment, for example individuals that express low motivation to treatment, have attention deficits, or marked lethargy.  
-* Patients that will not have sufficient time (about 45min/day) to work on treatment.  
-* Patients with psychosis, bipolar disorder, untreated substance use disorder, or other severe clinical condition that might interfere with treatment.  
-* Patients with severe depression (e.g., MADRS ≥35).  
-* Patients with another ongoing psychological treatment.  
+* Moderate to high suicidal ideations where written contact with a therapist 1-3 times per week is not enough to safely monitor and address risk.  
+* Expresses low motivation, has attention deficits, or marked lethargy.  
+* Does not have sufficient time (about 45min/day) to work on treatment.  
+* Psychosis, bipolar disorder, untreated substance use disorder, or other severe clinical condition that might interfere with treatment.  
+* Severe depression (e.g., MADRS ≥35).  
+* Another ongoing psychological treatment.  
 
 ## Presenting OCD-NET as an option to the patient
 
