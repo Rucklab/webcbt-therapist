@@ -12,9 +12,18 @@ ERP and other techniques in BDD-NET are most effective in patients with at least
 
 ## Who is suitable for BDD-NET
 
-BDD-NET is developed to treat adults with BDD. Patients may have comorbid conditions, for example other anxiety disorders, depression, or obsessive compulsive disorder. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. BDD-NET may also be delivered to patients with any level of BDD symptom severity.
+BDD-NET is developed to treat adults with BDD. Patients may have comorbid conditions, for example other anxiety disorders, depression, or obsessive compulsive disorder. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. BDD-NET may also be delivered to patients with any level of BDD symptom severity. The intended use of BDD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd). BDD-NET is text-based and requires sufficient reading skills and understanding of English.
 
-The intended use of BDD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd). We recommend that BDD-NET is primarily used for patients without a personality disorder that might interfere with treatment (such as borderline personality disorder), psychotic symptoms, an ongoing substance abuse, or acute suicidal ideation. BDD-NET is text-based and requires sufficient reading skills and understanding of English. We recommend that the patient is referred to face-to-face treatments if there are indications that BDD-NET may not be a suitable treatment option.
+## Who is not suitable for BDD-NET
+
+We recommend that the patient is assessed and managed according to local clinical guidelines if there are indications that BDD-NET may not be a suitable treatment option. In some cases, treatment can be delayed if an issue is expected to be resolved in a timely manner, for example if a patient will have sufficient time to work on the treatment in a few weeks time. Indications that an individual is not suitable for BDD-NET include:
+
+* Moderate to high suicidal ideations where written contact with a therapist 1-3 times per week is not enough to safely monitor and address risk.  
+* Expresses low motivation, has attention deficits, or marked lethargy.  
+* Does not have sufficient time (about 45min/day) to work on treatment.  
+* Psychosis, bipolar disorder, untreated substance use disorder, or other severe clinical condition that might interfere with treatment.  
+* Severe depression (e.g., MADRS ≥35).  
+* Another ongoing psychological treatment.  
 
 ## Presenting BDD-NET as an option to the patient
 
