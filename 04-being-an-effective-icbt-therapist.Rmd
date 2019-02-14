@@ -114,6 +114,13 @@ X
 
 Other times, there is genuine confusion about the point of a particular ERP exercise or the content in a module (most common in the modules about interpretations). When this is the case, make sure that the patient has learned key skills and takeaways needed for ERP: understanding the CBT model and the role of safety behaviours/compulsions in maintaining the disorder, the rationale for ERP, having specific and measurable goals, and having a plan for ERP exercises. Once these foundations are in place, therapists should encourage patients to get started with ERP and adapt exercises as they go along.
 
+<details>
+<summary> Click to view an example of a therapist explaining the rationale for imaginal exposure </summary>
+
+Imaginal exposures are a bit special, the point is not for you to *not* have an emotional reaction to the thoughts. These aggressive thoughts are unpleasant for anyone, and it is likely that you will always experience the thought as repugnant. Rather, the point is for you to practice to let the thought exist without acting on it. By working on imaginal exposures, you accept that you will have unpleasant thoughts from time to time and that you don't need to act on them. The point, then, is that the thought is unpleasant but you can let it exist anyway. We are not able to control our thoughts and trying to do so usually backfires. Imaginal exposure presents another way to relate to your unpleasant thoughts.
+
+</details>
+
 ### Patients who struggle with ERP exercises
 
 Behaviour change is difficult, and when patients start to challenge their OCD/BDD with ERP they are likely to experience the exercises as difficult at some point. In fact, a patient that never has any difficulties in ERP is likely not doing exercises that are challenging enough!
