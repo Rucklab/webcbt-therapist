@@ -23,6 +23,8 @@ Therapists should write to patients on their first day in treatment, introduce t
 
 We recommend that therapists check and respond to messages at least once per day. Patients in the studies on BDD-NET and OCD-NET have all received responses within 24 hours on weekdays. We believe that the frequent feedback from a therapist is important to keep patients engaged in the therapy throughout treatment.
 
+The most common questions that patients pose in ICBT relate to understanding and applying the treatment material, clarifying the therapeutic process, and addressing technical challenges [@soucy2019].
+
 ### Keep your messages short
 
 Messages should be concise and to the point but still using a personal touch. The main aim is to provide encouragement and reinforce key behaviours in the treatment, such as registrations in the OCD/BDD diary and performing ERP exercises.
@@ -118,16 +120,6 @@ It is important to stress that OCD-NET and BDD-NET have never been designed as f
 
 Some patients are pressured to come for an assessment, typically by a close relative or, in the case of BDD, sometimes by a cosmetic surgeon. Patients that are under external pressure to undergo treatment should not be selected for ICBT treatments such as OCD-NET or BDD-NET, since these treatments require self-guided exposure exercises to be effective.
 
-### Suicidality or self-harm
-
-Patients who express ongoing suicidal thoughts or have ongoing self-harm behaviour should be referred to treatments with more intensive monitoring and are generally not recommended to start ICBT. However, some patients who undergo CBT for OCD and BDD express a short-term increase in suicidal ideation or self-harm behaviour while in treatment. If this is detected either through patient-therapist messages or in weekly measurements, we recommend that therapists follow local guidelines or use the following outline as a guide:
-
-1. Call the patient immediately
-2. Explain that it is standard procedure to call when a patient indicates heightened suicidal ideation or increased risk of self-harm
-3. Follow a hierarchy of questions, such as those in the M.I.N.I. interview [@sheehan1998]
-4. If the immediate risk is low (i.e. PHQ-9 score of 2), make an agreement to check back in with the patient in a few days and give them contact information to the nearest 24-hour psychiatric care unit
-5. If the immediate risk is high (i.e. PHQ-9 score of 3), advise the patient to seek help at your centre or at a 24-hour psychiatric care unit.
-
 ### Deterioration in symptom measures
 
 A deterioration in symptom measures can sometimes occur when patients start doing ERP exercises and is usually not an issue if symptoms are reduced in the following weeks.
@@ -138,3 +130,45 @@ If symptom levels remain high despite frequent ERP exercises, share this informa
 | :---- | :---- |
 | Subtle avoidance or safety behaviours during ERP | Help the patient identify and remove these by probing mental safety behaviours: *What goes through your mind as you do ERP, are you trying to manage your anxiety in any way?* |
 | Lack of habituation despite proper ERP | Suggest longer ERP exercises or variations of the same ERP exercise <br> Ask for other signs of improvement: *What have you learned from staying in the situation? <br> What new skills have you acquired from doing this ERP exercise?* |
+
+## Ending treatment prematurely
+
+### Due to inactivity
+
+We recommend that patients who have been inactive for **20 days** end treatment. However, the treatment platform will create a flag after 7 days of inactivity to alert therapists. Before ending treatment, there are several steps that therapists can take to avoid long periods of inactivity.
+
+**When the inactivity flag appears:**  
+
+* Ensure that SMS reminders are working properly: Do you still have the correct number? Are the text messages being sent?  
+* Check previous messages: Has the patient indicated in a previous message that they will be away? Do they have a plan for how to work on treatment while being away from a computer?  
+* Write a message on the platform where you encourage the patient to log onto the platform and report their progress in treatment.  
+* Wait 4 days.  
+
+**4 days after inactivity flag:**  
+
+* Make a telephone call to the patient. If no response, write a text message with information about when you will call. Then try at the indicated time.  
+* Send a letter to the patient with instructions to log onto the platform. Provide information that treatment will end prematurely if the patient is inactive for 20 days.  
+
+**After 20 days of inactivity:**  
+
+* Check that the assessment dates are correct.  
+* Write one more message to the patient where you inform that the treatment has ended and ask that they complete assessments.  
+* Move the patient to "post-assessment" group.  
+
+### Increased suicidality or self-harm
+
+Patients who express ongoing suicidal thoughts or have ongoing self-harm behaviour should be referred to treatments with more intensive monitoring and are generally not recommended to start ICBT. However, some patients who undergo CBT for OCD and BDD express a short-term increase in suicidal ideation or self-harm behaviour while in treatment.
+
+If this is detected either through patient-therapist messages or in weekly measurements, we recommend that therapists follow local guidelines to assess and manage risk. If a patient requires more intensive monitoring, recurring telephone assessments can be added while continuing with the treatment. In other cases, treatment will need to be ended prematurely in order to manage the increase in suicidality.
+
+### Other reasons
+
+A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or is skeptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support. Seek supervision when necessary.
+
+**If a patient asks to end treatment early, call them:**  
+
+* What is the reason, are there any misunderstandings about the treatment that you can clarify? Are they concerned about not doing well enough in the treatment? See if you can motivate the patient to at least try a few exposure exercises.  
+* Does the patient feel that the treatment does not address their main concerns? See if you can understand what type of help the patient wants and assess whether the ongoing treatment is likely to address that or not.  
+* Is the patient likely to benefit from the treatment if they perform key behaviours (e.g., exposure with response prevention)? If not, it is advisable to end treatment early rather than complete the full duration.  
+
+You may come to the conclusion that the treatment is not suitable for the patient (see a list in the OCD-NET and BDD-NET manuals), or that the patient is unlikely to benefit from OCD-NET or BDD-NET. Weekly assessments should then be de-activated on the platform, but keep the post-assessment as is. If no further action is necessary, inform the patient that they will be asked to return to the clinic for a post-assessment after the treatment period is over.
