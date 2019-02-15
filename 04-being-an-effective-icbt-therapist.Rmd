@@ -1,6 +1,6 @@
 # Being an effective ICBT therapist
 
-Being a therapist in internet-based CBT (ICBT) differs in several ways from regular face-to-face treatment. The first difference is the mode of communication: asynchronous text messages rather than live face-to-face talking. The second is that therapists are more closely integrated in the treatment content, and will rely more heavily on the written material. Third, there is less therapist oversight during active ERP exercises. We will discuss these implications below.
+Being a therapist in internet-based CBT (ICBT) differs in several ways from regular face-to-face treatment. The first difference is the mode of communication: asynchronous text messages rather than live face-to-face talking. The second is that therapists are more closely integrated in the treatment content, and will rely more heavily on the written material. Third, there is less therapist oversight during active ERP exercises. We will discuss these implications, and give examples on effective messages in different scenarios, below.
 
 ## Support messages
 
@@ -20,6 +20,7 @@ Therapists should write to patients on their first day in treatment, introduce t
 *Best, Oskar*
 
 </details>
+<br>
 
 We recommend that therapists check and respond to messages at least once per day. Patients in the studies on BDD-NET and OCD-NET have all received responses within 24 hours on weekdays. We believe that the frequent feedback from a therapist is important to keep patients engaged in the therapy throughout treatment.
 
@@ -69,28 +70,29 @@ We do not have the privilege of guiding patients through ERP exercises in ICBT. 
 Therapists are advised to provide lots of encouragement when patients complete core activities in ICBT such as the OCD/BDD diary and performing ERP exercises. It is helpful to clarify how these activities contribute to the patient's long-term goals, to repeat main takeaways from the modules, and to communicate in a personal tone in order to avoid rigid responses. For example, we often give personal examples of intrusive thoughts (preferably bizarre ones) in order to normalise that having unwanted thoughts is not dangerous.
 
 <details>
-<summary> Click to read an example of a therapist response that reinforces progress </summary>
+<summary> Click to read an example of a therapist response that reinforces progress in module 3 </summary>
 
-Hi! It's great to see that you work through the material so quickly and are eager to get started with exercises!
+*Hi! It's great to see that you work through the material so quickly and are eager to get started with exercises!*
 
-You have done a thorough job on this module about interpretations. It's clear to me that you have embraced the CBT-perspective on thoughts: it is not the thoughts themselves but how we *interpret* those thoughts that matters. The problems occur when we respond with compulsions and other behaviours in response to the intrusive thoughts, which reinforces the thoughts.
+*You have done a thorough job on this module about interpretations. It's clear to me that you have embraced the CBT-perspective on thoughts: it is not the thoughts themselves but how we* interpret *those thoughts that matters. The problems occur when we respond with compulsions and other behaviours in response to the intrusive thoughts, which reinforces the thoughts.*
 
-In this treatment, we will not try to change the thoughts themselves, for example by trying to disprove them. Obsessive thoughts resist logic and will not disappear just by arguing with yourself. Rather, the goal is for you to gain new experiences by responding differently to the obsessive thoughts.
+*In this treatment, we will not try to change the thoughts themselves, for example by trying to disprove them. Obsessive thoughts resist logic and will not disappear just by arguing with yourself. Rather, the goal is for you to gain new experiences by responding differently to the obsessive thoughts.*
 
-Great work on module 3, I have granted access to module 4. Good luck and please reach out if you have any questions!
+*Great work on module 3, I have granted access to module 4. Good luck and please reach out if you have any questions!*
 
 </details>
 
 <details>
 <summary> Click to read an example of a therapist encouraging a patient to accept their obsessive thoughts </summary>
 
-Hi X! Trying to avoid or fight your obsessional thoughts usually backfires. These strategies intensify the obsessions and keep you convinced that these thoughts are more harmful, dangerous, and important than they really are. You become stuck in a vicious cycle.
+*Hi X! Trying to avoid or fight your obsessional thoughts usually backfires. These strategies intensify the obsessions and keep you convinced that these thoughts are more harmful, dangerous, and important than they really are. You become stuck in a vicious cycle.*
 
-My suggestion is that you try to accept your obsessive thoughts. Strive to accept the thought "what if I flirted with that person?" and accept the possibility that you might have flirted. Don't try to debate or argue with your obsessive thoughts. By accepting the thought, you might conclude that "yes, I might have flirted with several people, I have to accept that possibility."
+*My suggestion is that you try to accept your obsessive thoughts. Strive to accept the thought "what if I flirted with that person?" and accept the possibility that you might have flirted. Don't try to debate or argue with your obsessive thoughts. By accepting the thought, you might conclude that "yes, I might have flirted with several people, I have to accept that possibility."*
 
-This is not an easy thing to do, and our automatic response is usually to argue with our thoughts. But if you constantly try to argue or debate with your obsessive thoughts–or in any other way try to make them go away–they will find a way back sooner or later. Try to let your obsessive thoughts exist along every other thought and accept that they occur from time to time. What do you think?
+*This is not an easy thing to do, and our automatic response is usually to argue with our thoughts. But if you constantly try to argue or debate with your obsessive thoughts–or in any other way try to make them go away–they will find a way back sooner or later. Try to let your obsessive thoughts exist along every other thought and accept that they occur from time to time. What do you think?*
 
 </details>
+<br>
 
 ## Dealing with patients who struggle in treatment
 
@@ -101,27 +103,40 @@ This list of struggles in ICBT is based on our clinical experience of developing
 Asking questions to receive reassurance is a common strategy for anxiety reduction in both BDD and OCD. Therapists should therefore expect more frequent questions from patients when anxiety levels are likely to be high: in the beginning of treatment (when they learn more about their OCD/BDD), and when they are about to start ERP exercises. For example, it is common for patients to ask whether their OCD/BDD beliefs are realistic or not, and whether a particular ERP exercise is safe to do. When this is the case, we recommend that therapists validate the anxiety patients feel when they challenge their OCD/BDD, but that they refrain from providing reassurance.
 
 <details>
-<summary> Click to read an example of a therapist writing about his own bizarre thoughts </summary>
+<summary> TODO We could use another example here </summary>
 
-Hi X! It's impossible to *not* think certain thoughts. You will always have intrusive sexual thoughts about people close to you. It's part of being human and I want to remind you to accept that you have those thoughts from time to time. As soon as you try to argue with your thoughts or try to analyse them you will be trapped and the thoughts will be disturbing.
-
-Every morning when I change my daughter's diapers, I get an intrusive thought that I will sexually abuse her. I can't avoid thinking these thoughts, and I know that if I start to argue with them or try to make them go away, they will return and become more disturbing. So instead I accept them and let them exist among my other, more neutral or positive, thoughts. This is what I want you to try from now on!
-
-You have done a great job on the exposures these past days and I think that the content in module 9 will be helpful for you.
-
-Best regards,
-X
+*There will be a great example inside here.*
 
 </details>
+
+<details>
+<summary> Click to read an example of a therapist writing about his own bizarre thoughts </summary>
+
+*Hi X! It's impossible to* not *think certain thoughts. You will always have intrusive sexual thoughts about people close to you. It's part of being human and I want to remind you to accept that you have those thoughts from time to time. As soon as you try to argue with your thoughts or try to analyse them you will be trapped and the thoughts will be disturbing.*
+
+*Every morning when I change my daughter's diapers, I get an intrusive thought that I will sexually abuse her. I can't avoid thinking these thoughts, and I know that if I start to argue with them or try to make them go away, they will return and become more disturbing. So instead I accept them and let them exist among my other, more neutral or positive, thoughts. This is what I want you to try from now on!*
+
+*You have done a great job on the exposures these past days and I think that the content in module 9 will be helpful for you.*
+
+</details>
+<br>
 
 Other times, there is genuine confusion about the point of a particular ERP exercise or the content in a module (most common in the modules about interpretations). When this is the case, make sure that the patient has learned key skills and takeaways needed for ERP: understanding the CBT model and the role of safety behaviours/compulsions in maintaining the disorder, the rationale for ERP, having specific and measurable goals, and having a plan for ERP exercises. Once these foundations are in place, therapists should encourage patients to get started with ERP and adapt exercises as they go along.
 
 <details>
-<summary> Click to view an example of a therapist explaining the rationale for imaginal exposure </summary>
+<summary> TODO We could use one example on confusion about interpretations here </summary>
 
-Imaginal exposures are a bit special, the point is not for you to *not* have an emotional reaction to the thoughts. These aggressive thoughts are unpleasant for anyone, and it is likely that you will always experience the thought as repugnant. Rather, the point is for you to practice to let the thought exist without acting on it. By working on imaginal exposures, you accept that you will have unpleasant thoughts from time to time and that you don't need to act on them. The point, then, is that the thought is unpleasant but you can let it exist anyway. We are not able to control our thoughts and trying to do so usually backfires. Imaginal exposure presents another way to relate to your unpleasant thoughts.
+*This box will contain the great example.*
 
 </details>
+
+<details>
+<summary> Click to view an example of a therapist explaining the rationale for imaginal exposure </summary>
+
+*Imaginal exposures are a bit special, the point is not for you to* not *have an emotional reaction to the thoughts. These aggressive thoughts are unpleasant for anyone, and it is likely that you will always experience the thought as repugnant. Rather, the point is for you to practice to let the thought exist without acting on it. By working on imaginal exposures, you accept that you will have unpleasant thoughts from time to time and that you don't need to act on them. The point, then, is that the thought is unpleasant but you can let it exist anyway. We are not able to control our thoughts and trying to do so usually backfires. Imaginal exposure presents another way to relate to your unpleasant thoughts.*
+
+</details>
+<br>
 
 ### Patients who struggle with ERP exercises
 
@@ -132,13 +147,14 @@ There are entire modules dedicated to common difficulties during treatment, and 
 <details>
 <summary> Click to read an example of a therapist response when a patient has expressed worry about doing the right ERP exercises </summary>
 
-Hi, excellent work so far! Having thoughts about not doing the right ERP exercises is something that most patients experience at one point or another. This is to be expected and something that your brain does when you perform ERP. You can view them as one type of obsessive thoughts that we deal with in the same way we deal with all obsessive thoughts: we let them exist and leave them alone.
+*Hi, excellent work so far! Having thoughts about not doing the right ERP exercises is something that most patients experience at one point or another. This is to be expected and something that your brain does when you perform ERP. You can view them as one type of obsessive thoughts that we deal with in the same way we deal with all obsessive thoughts: we let them exist and leave them alone.*
 
-(Gives a few suggestions of ERP exercises–previously listed in the exposure hierarchy–to be performed the same day.) Perhaps you could do one of these exercises today? I look forward to hearing about how it went!
+*(Gives a few suggestions of ERP exercises–previously listed in the exposure hierarchy–to be performed the same day.) Perhaps you could do one of these exercises today? I look forward to hearing about how it went!*
 
 </details>
+<br>
 
-### Patients with low engagement
+### Low engagement
 
 The best way to deal with low engagement is to prevent it from happening to begin with. Strategies to prevent low engagement include:
 
@@ -149,28 +165,37 @@ The best way to deal with low engagement is to prevent it from happening to begi
 
 If a patient becomes less active on the treatment platform, it does not necessarily mean that they have stopped working with the treatment or have given up on the treatment. Some inactive patients are doing a lot of treatment work in their daily life but do not report this spontaneously to their therapist.
 
-### Patients express lack of time to work on the treatment
+### Lack of time to work on the treatment
 
 One common reason for low engagement is that the patient struggles to find the time to work on ICBT. We recommend that therapists encourage any small steps the patient takes and that they prioritise ERP exercises away from the computer over reading additional modules.
 
 If a patient is completely unable to work on the treatment right now, ask him/her if it possible to delay the start of treatment. The absolute majority of patients responding to OCD-NET and BDD-NET experience this gain within the first 5 weeks after starting treatment. Thus, even if the patient is delayed and start the treatment at week 5, it is still possible to achieve a significant improvement given that the patient works with the treatment intensively.
 
-### Patients express skepticism about ICBT
+<details>
+<summary> TODO This should also be exempified </summary>
+
+*Example example*
+
+</details>
+<br>
+
+### Skepticism about ICBT
 
 Some patients may be skeptical about ICBT in general or in their ability to complete a remote treatment without face-to-face support from a therapist. We recommend that therapists validate and acknowledge that these concerns are common early in treatment and, importantly, help skeptical patients experience *early wins* by starting with swift and easy ERP exercises.
 
 <details>
 <summary> Click to read an example response to a patient that is ambivalent towards CBT </summary>
 
-Hi X! I notice that you are ambivalent about doing this treatment and that you have some doubts whether CBT will really help you. First of all, I really appreciate that you are honest about this!
+*Hi X! I notice that you are ambivalent about doing this treatment and that you have some doubts whether CBT will really help you. First of all, I really appreciate that you are honest about this!*
 
-It is completely normal to be ambivalent early in the treatment. Most people feel that their rituals are excessive and out of control, but still worry that a disaster might happen if they stop doing them. Others might be afraid that they will be asked to do absurd things in treatment that is completely against their idea of normal behaviours. Another reason for being ambivalent is not feeling like you have enough time to devote to treatment. If one or more of these apply to you, know that others who have ended up benefitting greatly from the treatment have also been ambivalent.
+*It is completely normal to be ambivalent early in the treatment. Most people feel that their rituals are excessive and out of control, but still worry that a disaster might happen if they stop doing them. Others might be afraid that they will be asked to do absurd things in treatment that is completely against their idea of normal behaviours. Another reason for being ambivalent is not feeling like you have enough time to devote to treatment. If one or more of these apply to you, know that others who have ended up benefitting greatly from the treatment have also been ambivalent.*
 
-Overcoming OCD/BDD is challenging, and you will have to face your fears and reduce (or stop) your rituals at some point. But it's worth it. The anxiety and fear provoked by the treatment are temporary side effects, and they don't have any long-lasting harmful consequences. If you engage with this treatment, you have a good chance of reclaiming control and freedom in your life.
+*Overcoming OCD/BDD is challenging, and you will have to face your fears and reduce (or stop) your rituals at some point. But it's worth it. The anxiety and fear provoked by the treatment are temporary side effects, and they don't have any long-lasting harmful consequences. If you engage with this treatment, you have a good chance of reclaiming control and freedom in your life.*
 
-My role as your therapist is to support you throughout treatment, and I want to stress that *you* are the one in the driver's seat. You decide which goals are important to reach, and you will do the work to get better. I therefore ask that you give this treatment a chance and do your best to follow the instructions, because then you will be giving yourself the best possible chances of getting over your OCD/BDD.
+*My role as your therapist is to support you throughout treatment, and I want to stress that* you *are the one in the driver's seat. You decide which goals are important to reach, and you will do the work to get better. I therefore ask that you give this treatment a chance and do your best to follow the instructions, because then you will be giving yourself the best possible chances of getting over your OCD/BDD.*
 
 </details>
+<br>
 
 It is important to stress that OCD-NET and BDD-NET have never been designed as full alternatives to face-to-face CBT but should instead be seen as a complementary approach. Patients who are skeptical about ICBT from the beginning will probably not benefit from this treatment modality. Alternative formats and treatments are probably a more feasible option in these cases.
 
@@ -223,7 +248,7 @@ If this is detected either through patient-therapist messages or in weekly measu
 
 A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or is skeptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support. Seek supervision when necessary.
 
-**If a patient asks to end treatment early, call them:**  
+**If a patient asks to end treatment early, call them. Go through the following points in the call:**  
 
 * What is the reason, are there any misunderstandings about the treatment that you can clarify? Are they concerned about not doing well enough in the treatment? See if you can motivate the patient to at least try a few exposure exercises.  
 * Does the patient feel that the treatment does not address their main concerns? See if you can understand what type of help the patient wants and assess whether the ongoing treatment is likely to address that or not.  
