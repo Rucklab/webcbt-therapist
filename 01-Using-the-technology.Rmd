@@ -4,9 +4,7 @@
 
 If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features. We generally recommend that you use the platform while reading this manual, to test features as you go along.
 
-**Therapists access the platform via this URL: [https://webcbt.tst.ki.se/t1](https://webcbt.tst.ki.se/t1)**. This is where therapists enter their username and password to enter the treatment platform.
-
-*Note that URLs will change once OCD-NET and BDD-NET are used in clinical work, the current ones are for testing the platform only.*
+**Therapists access the platform via this URL: [https://webcbt.se/ocdnet](https://webcbt.se/ocdnet)**. This is where therapists enter their username and password to enter the treatment platform. This URL can be used for both OCD-NET and BDD-NET.
 
 ## Platform use overview
 
@@ -127,7 +125,10 @@ We encourage therapists using OCD-NET and BDD-NET to login with one of the test 
 
 ### Access
 
-Patients access the platform from the [Patient-URL](https://t1.webcbt.tst.ki.se/), which is different from the therapist URL.
+Patients access the platform from the patient-URL, which is different from the therapist URL.
+
+* [OCD-NET](https://ocdnet.webcbt.se)    
+* [BDD-NET](https://bddnet.webcbt.se)  
 
 ![Patients can click the "I lost my password" text to receive a new password.](images/patient-login.png)
 
