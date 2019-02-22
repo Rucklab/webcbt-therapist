@@ -121,7 +121,7 @@ Fields not needed are:
 
 ## OCD-NET and BDD-NET for patients
 
-We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. See below for a quick overview of the registration process.
+We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. See below for a quick overview of the patient platform.
 
 ### Access
 

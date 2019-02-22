@@ -4,7 +4,7 @@ Being a therapist in internet-based CBT (ICBT) differs in several ways from regu
 
 ## Support messages
 
-Therapists should write to patients on their first day in treatment, introduce themselves (if they have not been in contact before) and present the treatment. For example, therapists can give instructions for how to navigate the platform, how much time the patient should spend on the first module, and how to contact mental health services in case of an emergency.
+Therapists should write to patients on their first day in treatment, introduce themselves (if they have not been in contact before) and present the treatment. For example, therapists can give instructions on how to navigate the platform, how much time the patient should spend on the first module, and how to contact mental health services in case of an emergency.
 
 <details>
 <summary> Click to read an example of the first message sent to a patient </summary>
@@ -26,7 +26,7 @@ We recommend that therapists check and respond to messages at least once per day
 
 ### Keep your messages short
 
-Messages should be concise and to the point but still using a personal touch. The main aim is to provide encouragement and reinforce key behaviours in the treatment, such as registrations in the OCD/BDD diary and performing ERP exercises.
+Messages should be concise and to the point but still using a personal touch. The main aim is to provide encouragement and reinforce key behaviours in the treatment, such as entries in the OCD/BDD diary and performing ERP exercises.
 
 There are some exceptions to this rule. Therapists are advised to write longer messages when needed: to highlight examples in the diary that are informative and relate these to the CBT model of OCD/BDD, or to provide encouragement by linking ERP exercises to a patient's long-term goals and values.
 
@@ -45,7 +45,7 @@ There are exceptions to the rule of frequent messages: some patients will prefer
 
 ### What to include in support messages
 
-We recommend that therapists begin by summarising the content in the patient's message and validate concerns and/or struggles they may have mentioned. Therapists should then address and provide feedback on specific treatment activities (completing content on the platform or practicing skills from treatment in their daily life), with an emphasis on positive reinforcement and encouragement. An effective ending typically includes a suggestion of next steps, encouragement to continue with planned exercises, a question, or a call to action.
+We recommend that therapists begin by summarising the content in the patient's message and validate concerns and/or struggles they may have mentioned. Therapists should then address and provide feedback on specific treatment activities (completing content on the platform or practising skills from treatment in their daily life), with an emphasis on positive reinforcement and encouragement. An effective ending typically includes a suggestion of next steps, encouragement to continue with planned exercises, a question, or a call to action.
 
 | **What to include in support messages** |
 | :---- |
@@ -191,7 +191,7 @@ If a patient becomes less active on the treatment platform, it does not necessar
 
 One common reason for low engagement is that the patient struggles to find the time to work on ICBT. We recommend that therapists encourage any small steps the patient takes and that they prioritise ERP exercises over reading additional modules.
 
-If a patient is completely unable to work on the treatment right now, ask him/her if it possible to delay the start of treatment. The absolute majority of patients responding to OCD-NET and BDD-NET experience this gain within the first 5 weeks after starting treatment. Thus, even if the patient is delayed, it is still possible to achieve a significant improvement given that the patient works with the treatment intensively during the remaining weeks.
+If a patient is completely unable to work on the treatment right now, ask him/her if it possible to delay the start of treatment. The majority of patients responding to OCD-NET and BDD-NET experience this gain within the first 5 weeks after starting treatment. Thus, even if the treatment is delayed, it is still possible to achieve a significant improvement provided that the patient works with the treatment intensively during the remaining weeks.
 
 <details>
 <summary> Click to read a therapist response when a patient writes that they might not have time to work on the treatment </summary>
@@ -206,12 +206,12 @@ If a patient is completely unable to work on the treatment right now, ask him/he
 
 </details>
 
-### Skepticism about ICBT
+### Scepticism about ICBT
 
-Some patients may be skeptical about ICBT in general or in their ability to complete a remote treatment without face-to-face support from a therapist. We recommend that therapists validate and acknowledge that these concerns are common early in treatment and, importantly, help skeptical patients experience *early wins* by starting with swift and easy ERP exercises.
+Some patients may be sceptical about ICBT in general or about their ability to complete a remote treatment without face-to-face support from a therapist. We recommend that therapists validate and acknowledge that these concerns are common early in treatment and, importantly, help sceptical patients experience *early wins* by starting with swift and easy ERP exercises.
 
 <details>
-<summary> Click to read an example response to a patient that is ambivalent towards CBT </summary>
+<summary> Click to read an example response to a patient who is ambivalent towards CBT </summary>
 
 *Hi X! I notice that you are ambivalent about doing this treatment and that you have some doubts whether CBT will really help you. First of all, I really appreciate that you are honest about this!*
 
@@ -224,15 +224,15 @@ Some patients may be skeptical about ICBT in general or in their ability to comp
 </details>
 <br>
 
-It is important to stress that OCD-NET and BDD-NET have never been designed as full alternatives to face-to-face CBT but should instead be seen as a complementary approach. Patients who are very skeptical about ICBT will probably not benefit from this treatment modality. Alternative formats and treatments are probably better options in these cases.
+It is important to stress that OCD-NET and BDD-NET have never been designed as full alternatives to face-to-face CBT but should instead be seen as a complementary approach. Patients who are very sceptical about ICBT will probably not benefit from this treatment modality. Alternative formats and treatments are probably better options in these cases.
 
 ### Perceived external pressure
 
-Some patients are pressured to come for an assessment, typically by a close relative or, in the case of BDD, sometimes by a cosmetic surgeon. Patients that are under external pressure to undergo treatment should not be selected for ICBT treatments such as OCD-NET or BDD-NET, since these treatments require self-guided exposure exercises to be effective.
+Some patients are pressured to come for an assessment, typically by a close relative or, in the case of BDD, sometimes by a cosmetic surgeon. Patients who are under external pressure to undergo treatment should not be selected for ICBT treatments such as OCD-NET or BDD-NET, since these treatments require self-guided exposure exercises to be effective.
 
 ### Deterioration in symptom measures
 
-A deterioration in symptom measures can sometimes occur when patients start doing ERP exercises and is usually not an issue if symptoms are reduced in the following weeks. If symptom levels remain high despite frequent ERP exercises, share this information with the patient and discuss what might explain this pattern. We list some common explanations below.
+A deterioration in symptom measures can sometimes occur when patients start doing ERP exercises and this is usually not an issue if symptoms are reduced in the following weeks. If symptom levels remain high despite frequent ERP exercises, share this information with the patient and discuss what might explain this pattern. We list some common explanations below.
 
 | Reason for increased symptoms | Proposed solution |
 | :---- | :---- |
@@ -255,12 +255,12 @@ We recommend that patients who have been inactive for **20 days** end treatment.
 **4 days after inactivity flag:**  
 
 * Make a telephone call to the patient. If no response, write a text message with information about when you will call. Then try at the indicated time.  
-* Send a letter to the patient with instructions to log onto the platform. Provide information that treatment will end prematurely if the patient is inactive for 20 days.  
+* Send a letter to the patient with instructions to log onto the platform. Inform the patient that treatment will end prematurely if the patient is inactive for 20 days.  
 
 **After 20 days of inactivity:**  
 
 * Check that the assessment dates are correct.  
-* Write one more message to the patient where you inform that the treatment has ended and ask that they complete assessments.  
+* Write one more message to the patient where you inform them that the treatment has ended and ask that they complete assessments.  
 * Move the patient to "post-assessment" group.  
 
 ### Increased suicidality or self-harm
@@ -271,7 +271,7 @@ If this is detected either through patient-therapist messages or in weekly measu
 
 ### Other reasons
 
-A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or is skeptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support. Seek supervision when necessary.
+A patient may request that they end treatment early for another reason than the two outlined above. Our recommendation is that therapists encourage patients to continue if they express common difficulties (e.g., struggling with the first ERP exercise or sceptical of OCD-NET/BDD-NET prior to trying ERP for the first time). Most of these difficulties can be resolved within a week or two with increased therapist support. Seek supervision when necessary.
 
 **If a patient asks to end treatment early, call them. Go through the following points in the call:**  
 
@@ -279,4 +279,4 @@ A patient may request that they end treatment early for another reason than the 
 * Does the patient feel that the treatment does not address their main concerns? See if you can understand what type of help the patient wants and assess whether the ongoing treatment is likely to address that.  
 * Is the patient likely to benefit from the treatment if they perform key behaviours (e.g., exposure with response prevention)? If not, it is advisable to end treatment early rather than complete the full duration.  
 
-You may come to the conclusion that the treatment is not suitable for the patient (see a list in the OCD-NET and BDD-NET manuals), or that the patient is unlikely to benefit from OCD-NET or BDD-NET. Weekly assessments should then be de-activated on the platform, but keep the post-assessment as is. If no further action is necessary, inform the patient that they will be asked to return to the clinic for a post-assessment after the treatment period is over.
+You may come to the conclusion that the treatment is not suitable for the patient (see the list in the OCD-NET and BDD-NET manuals), or that the patient is unlikely to benefit from OCD-NET or BDD-NET. Weekly assessments should then be de-activated on the platform, but keep the post-assessment as is. If no further action is necessary, inform the patient that they will be asked to return to the clinic for a post-assessment after the treatment period is over.
