@@ -1,0 +1,11 @@
+# Workshop material
+
+Use this page to complete the workshop for OCD-NET and BDD-NET. In the workshop, you will use the platform as both therapist and patient in order to familiarise yourself with the platform. If you get stuck anywhere along the way, ask one of the trainers or look for help material on this site!
+
+Our support email is <ocdnet.support@webcbt.se>.
+
+## Quick links
+
+* [Therapist-login](https://webcbt.se/ocdnet)  
+* [Patient-login OCD-NET](https://ocdnet.webcbt.se)  
+* [Patient-login BDD-NET](https://bddnet.webcbt.se)  
