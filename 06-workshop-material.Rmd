@@ -9,3 +9,82 @@ Our support email is <ocdnet.support@webcbt.se>.
 * [Therapist-login](https://webcbt.se/ocdnet)  
 * [Patient-login OCD-NET](https://ocdnet.webcbt.se)  
 * [Patient-login BDD-NET](https://bddnet.webcbt.se)  
+
+## Workshop overview
+
+We will begin by introducing the technology and the treatments. You will find written information regarding OCD-NET and BDD-NET in their respective treatment manuals on this site.
+
+After the introduction, it's time to practice using the treatments as both therapist and patient. You will practice in pairs, where one is a patient and the other is a therapist. You will use your real therapist account and create test patient accounts to use in the workshop.
+
+You will work through common scenarios together, one acting as patient and the other acting as therapist. When you have completed the scenarios you change roles.
+
+## Preparations
+
+* BOTH: Create patient account
+* BOTH: Activate measurements and module
+* BOTH: Select your colleague (or yourself if solo) as therapist
+
+## Scenario 1 - first day in therapy
+
+In this scenario you'll practice several of the core tools in therapy: sending messages, homework assignments, and worksheets.
+
+<details>
+<summary> Scenario 1 for therapist </summary>
+
+* The patient is supposed to fill out the homework assignment and the OCD diary
+* Write a first message to the patient where you welcome them to the treatment. **Go to Treatments -> Participant messages to write your message**
+* Navigate to **Treatments -> Treatment access** and wait for module 1 homework. You will need to refresh the page when your partner has answered the homework.
+* Click *Show*, look at the answers, and close the window. Click *Mark as reviewed*.
+* The patient has some questions regarding the OCD diary. Navigate back to **Treatments -> Participant messages** to read their questions and answer.
+* The patient will now fill in the OCD diary. Worksheets work the same way as homework assignments, so repeat the above procedure.
+
+**Scenario 1 is complete!**
+
+</details>
+
+<br>
+
+<details>
+<summary> Scenario 1 for patient </summary>
+
+* Log onto the platform using your patient credentials.
+* You will see two questionnaires. Fill them in, and make sure to indicate **more than half the days OR nearly every day on item 9 ("Thoughts that you would be better off dead...") on the PHQ-9**.
+* Once you have completed the questionnaires you will enter the treatment platform. Navigate to module 1 and scroll through (just to get a sense of what the platform looks like)
+* Give answers to the module's homework questions. You can write anything here.
+* You are instructed to fill out the OCD diary, but you have some questions... Write a message to your therapist and ask for clarification.
+* When you receive an answer from your therapist, write something in the OCD diary and save.
+
+**Scenario 1 is complete!**
+
+</details>
+
+## Scenario 2 - progressing in therapy
+
+In this scenario you'll practice several of the core tools in therapy: sending messages, homework assignments, and worksheets.
+
+<details>
+<summary> Scenario 2 for therapist </summary>
+
+* Your patient has now completed module 1. Let's give them access to the next module!
+* Navigate to **Treatments -> treatment access** and write today's date next to module 2.
+* Navigate to **Treatments -> participant messages**, write a short message to the patient. Here, we typically give positive feedback on the previous module and introduce the next module. We also indicate the expected time to complete the module.
+
+**Scenario 2 is complete!**
+
+</details>
+
+<br>
+
+<details>
+<summary> Scenario 2 for patient </summary>
+
+* Log onto the platform using your patient credentials.
+* You will see two questionnaires. Fill them in, and make sure to indicate **more than half the days OR nearly every day on item 9 ("Thoughts that you would be better off dead...") on the PHQ-9**.
+* Once you have completed the questionnaires you will enter the treatment platform. Navigate to module 1 and scroll through (just to get a sense of what the platform looks like)
+* Give answers to the module's homework questions. You can write anything here.
+* You are instructed to fill out the OCD diary, but you have some questions... Write a message to your therapist and ask for clarification.
+* When you receive an answer from your therapist, write something in the OCD diary and save.
+
+**Scenario 2 is complete!**
+
+</details>
