@@ -6,7 +6,7 @@ The treatment in OCD-NET is based on established treatment protocols for OCD [@f
 
 ## Who is suitable for OCD-NET
 
-OCD-NET has been developed to treat adult patients with OCD. In previous trials evaluating OCD-NET, participants have had comorbid conditions such as depression and anxiety. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. OCD-NET may also be delivered to patients with any level of OCD symptom severity. OCD-NET is text-based and requires sufficient reading skills and understanding of English. The intended use of OCD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#stepped-care-for-adults-young-people-and-children-with-ocd-or-bdd).
+OCD-NET has been developed to treat adult patients with OCD. In previous trials evaluating OCD-NET, participants have had comorbid conditions such as depression and anxiety. Patients may also take antidepressant medication during the course of treatment. We recommend that patients do not change the dose during the course of treatment. OCD-NET may also be delivered to patients with any level of OCD symptom severity. OCD-NET is text-based and requires sufficient reading skills and understanding of English. The intended use of OCD-NET is within a stepped-care model where patients are offered low-intensity treatments as a first step, [see the NICE-guidelines](https://www.nice.org.uk/guidance/CG31/chapter/1-Guidance#steps-35-treatment-options-for-people-with-ocd-or-bdd).
 
 ## Who is not suitable for OCD-NET
 
@@ -21,7 +21,7 @@ We recommend that the patient is assessed and managed according to local clinica
 
 ## Presenting OCD-NET as an option to the patient
 
-It is important to stress that previous trials of OCD-NET have been conducted on patients who have actively requested internet-based treatment when giving this option. Thus, forcing someone to undertake a treatment they do not agree with is unhelpful at the very least and can also be harmful.
+It is important to stress that previous trials of OCD-NET have been conducted on patients who have actively requested internet-based treatment when given this option. Thus, forcing someone to undertake a treatment they do not agree with is unhelpful at the very least and can also be harmful.
 
 With that in mind, we believe there are two particularly strong arguments for the use of OCD-NET rather than face-to-face therapy: patients can access the treatment content and therapist support whenever they want to, and treatment can start right away rather than after a waiting time.
 

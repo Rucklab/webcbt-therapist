@@ -123,6 +123,8 @@ Fields not needed are:
 
 We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. See below for a quick overview of the patient platform.
 
+![Demo of the platform from a patient's perspective.](https://vimeo.com/345008016)
+
 ### Access
 
 Patients access the platform from the patient-URL, which is different from the therapist URL.
