@@ -94,9 +94,7 @@ Once the level of suicidality is deemed to be low enough to not require further 
 
 Supervision through the platform makes it easy to connect feedback from the supervisor to specific therapist messages and actions. The supervision page is found at *Treatment -> Supervision messages* for each participant. It will look different for the therapist that is supervised and the supervisor.
 
-![Therapists have a simple interface to write and receive messages from their supervisor](images/supervision-therapist.png)
-
-![Messages between therapist and supervisor to the left, participant messages to the right for reference](images/supervisor-view.png)
+![Drafts of messages in the "Supervision messages" view will be marked for supervision](images/supervisor-view.png)
 
 The notes are only visible to the supervisor, so that he/she can write comments about the supervision for future reference. If you are a supervisor, new messages to review are indicated by an icon for messages. ![](images/supervision-message.png)
 
