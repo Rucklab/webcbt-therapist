@@ -4,6 +4,10 @@ Use this page to complete the workshop for OCD-NET and BDD-NET. In the workshop,
 
 Our support email is <ocdnet.support@webcbt.se>.
 
+## Registration for therapists
+
+Go to [this link](https://tinyurl.com/ocdnet-register) and fill out your contact details. We will create an account for you.
+
 ## Quick links
 
 - [Therapist-login](https://webcbt.se/ocdnet)  
