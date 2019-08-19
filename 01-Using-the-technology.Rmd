@@ -90,14 +90,6 @@ Once the level of suicidality is deemed to be low enough to not require further 
 
 ![Once you have managed a flag, you can make a note that lists actions taken, and remove the flag.](images/remove-flag.png)
 
-## Supervision
-
-Supervision through the platform makes it easy to connect feedback from the supervisor to specific therapist messages and actions. The supervision page is found at *Treatment -> Supervision messages* for each participant. It will look different for the therapist that is supervised and the supervisor.
-
-![Drafts of messages in the "Supervision messages" view will be marked for supervision](images/supervisor-view.png)
-
-The notes are only visible to the supervisor, so that he/she can write comments about the supervision for future reference. If you are a supervisor, new messages to review are indicated by an icon for messages. ![](images/supervision-message.png)
-
 ## Assign new therapist
 
 The most typical scenario is that each patient is treated by one therapist throughout treatment, but it is not uncommon for a second therapist to act as backup if the primary therapist is not available.
@@ -119,9 +111,7 @@ Fields not needed are:
 
 ## OCD-NET and BDD-NET for patients
 
-We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. See below for a quick overview of the patient platform.
-
-[Demo video](https://player.vimeo.com/video/345008016)
+We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. If you have participated in the workshop training, you most likely have a test patient account already.
 
 ### Access
 
