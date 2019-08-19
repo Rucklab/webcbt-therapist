@@ -18,7 +18,9 @@ Welcome to our online therapist resource for *OCD-NET* and *BDD-NET*. This websi
 
 We strive to continuously update and improve this material and would appreciate any feedback. You can reach us at <ocdnet.support@webcbt.se> or talk to us in person at a training session.
 
-[Demo video](https://player.vimeo.com/video/345008016)
+## Demo video
+
+<iframe src="https://player.vimeo.com/video/345008016" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Description of OCD-NET and BDD-NET
 
