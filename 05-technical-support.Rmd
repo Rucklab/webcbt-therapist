@@ -8,13 +8,16 @@ The platform is designed to be user-friendly for patients with varying technical
 
 ### Forgotten username or password
 
+<iframe src="https://player.vimeo.com/video/356599232" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/356599232">How to reset participant password</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 If a patient has forgotten their password, they can request a new one at the login screen:
 
 ![](images/patient-login.png)
 
-If they have forgotten their username, simply look at their *Participant stats* and **Login** is their username.
+This request will trigger a **?** symbol next to their name in the participant overview. Navigate to the patient in question and the *Participant stats* tab. Click the *Change password* button. The site generates a new, secure, password that can be sent to the patient via SMS.
 
-If a patient is unable to generate a new password on their own, navigate to the patient in question and the *Participant stats* tab. Click the *Change password* button. The site generates a new, secure, password that can be sent to the patient via SMS.
+If they have forgotten their username, simply look at their *Participant stats* where **Login** is their username.
 
 ![Change password button](images/change-password.png)
 
@@ -52,13 +55,13 @@ Send an e-mail to us <ocdnet.support@webcbt.se> containing the following informa
 * Username
 * Full name
 * e-mail
-* Phone number (to receive login codes via text messages)
+* Phone number
 
 We then create a user and generate a password to be replaced at the first login.
 
 ### Forgotten password
 
-Admins are able to reset therapist passwords in the *Therapist* tab of the left-hand menu. Click the button called "Must change password" to initiate a password change for that user.
+Send an email to <ocdnet.support@webcbt.se> using the NHS-email that was used at registration, and request a password change. We will then generate a new temporary password that is used once, and you will be requested to change the password upon login.
 
 ## Other technical issues
 

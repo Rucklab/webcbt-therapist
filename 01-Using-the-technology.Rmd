@@ -31,6 +31,21 @@ The menu bar on the left may expand depending on administrative rights. Other pa
 
 ![](images/therapist-menu.png)
 
+## Create new patient login
+
+<iframe src="https://player.vimeo.com/video/356599458" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/356599458">How to create a new user</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+To create a new patient login on the platform, go to the participant overview by selecting *Participant search* in the left-hand menu. Select *Create new participant* at the bottom of the participant list. Therapists can use the "change password" button to generate secure passwords for patients.
+
+![Therapists can generate secure passwords for patients using the "change password" button](images/new-participant.png)
+
+Fields not needed are:
+
+* Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists
+* Temporary notes: Usually not needed but can be used to store information
+
 ## Filtering the participant overview
 
 To get a quick overview of a long participant list, filter patients that meet certain criteria, for example belonging to certain groups in treatment of certain treatments. There is a button called *Selection* above the participant list. We recommend that therapists use the "My participants" filter to show only patients assigned to them.
@@ -98,16 +113,7 @@ To assign another therapist or change therapist, navigate to the patient in ques
 
 ![The numbers next to therapists indicate how many patients they are assigned to](images/assign-therapist.png)
 
-## Create new patient login
 
-To create a new patient login on the platform, go to the participant overview by selecting *Participant search* in the left-hand menu. Select *Create new participant* at the bottom of the participant list. Therapists can use the "change password" button to generate secure passwords for patients.
-
-![Therapists can generate secure passwords for patients using the "change password" button](images/new-participant.png)
-
-Fields not needed are:
-
-* Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists
-* Temporary notes: Usually not needed but can be used to store information
 
 ## OCD-NET and BDD-NET for patients
 
