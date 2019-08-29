@@ -60,6 +60,9 @@ A new message from a patient will be indicated by this icon ![](images/message-i
 
 ## Homework review
 
+<iframe src="https://player.vimeo.com/video/356626585" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/356626585">Reviewing homework assignments</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 A completed homework assignment is shown in the **Homework** column in the participant overview. Click the pencil next to the participant and navigate to *Treatments -> Treatment access* to review the homework and mark it as completed.
 
 ![Completed homework assignments will show up for review in the treatment overview, click the checkmark or red button to mark it as completed or send back to the participant.](images/homework-complete.png)
@@ -83,6 +86,9 @@ Before, during, and after treatment, patients are asked to fill out questionnair
 ![Click the paper icon to view responses](images/assessments-list.png)
 
 ## Warning flags
+
+<iframe src="https://player.vimeo.com/video/356626839" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/356626839">How to manage warning flags</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 The ICBT platform will display a *warning flag* next to a patient's name for certain events. The most common flags are due to non-response to questionnaires. These serve as prompts to therapists to take further action, for example reaching out by phone to a patient or sending them another text message reminder.
 
