@@ -119,7 +119,16 @@ To assign another therapist or change therapist, navigate to the patient in ques
 
 ![The numbers next to therapists indicate how many patients they are assigned to](images/assign-therapist.png)
 
+## Ending treatment
 
+When you have finished a course of treatment using OCD-NET or BDD-NET, there are a few steps to take. They may differ depending on whether treatment ended prematurely or was completed.
+
+* Extend treatment access to the appropriate date in the *Treatments -> Treatment Access* tab.
+* Prevent sending/receiving messages in the *Treatments -> Treatment Access* tab.
+* Move the participant to another group, typically **complete** or **did not complete**.
+* If treatment ended prematurely: Make a short note of the reason for ending treatment in the temporary flag text or temporary notes area.
+* If treatment ended prematurely: De-activate all assessments in the assessments tab by de-selecting them.
+* Remove yourself as a therapist. This means that you will no longer see the patient in the *My Participants* overview.
 
 ## OCD-NET and BDD-NET for patients
 
