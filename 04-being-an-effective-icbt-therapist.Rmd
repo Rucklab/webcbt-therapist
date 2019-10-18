@@ -22,6 +22,36 @@ Therapists should write to patients on their first day in treatment, introduce t
 </details>
 <br>
 
+<details>
+<summary> Here is another example </summary>
+
+Hello [NAME],
+
+Welcome to the online platform OCD-NET with [SERVICE]. My name is [NAME] and I am a CBT therapist in the service. I will be supporting you through your program. 
+
+I will log into OCD-NET twice every weekday to review your progress, provide feedback and give you guidance. I will also review the homework tasks that you have been set and answer any questions you may have in regards to the program. 
+
+The more active you are on the program and the more that you share with me, the more feedback I can provide for you. This way, the program can be more customised to your difficulties, helping you to manage better. 
+
+The more time you spend on the program, the more benefits you will gain from it. We recommend spending at least 45 minutes every day on the program. This usually means completing one module per week. Modules consist of text information, as well as homework assignments and tasks to complete. 
+
+I will be available twice a day every weekday throughout the duration of the ten week program, so try to log in regularly to make the most of that support. After the ten weeks, the program will be available to you for 100 days without the support. 
+
+Please be aware that if you are not active on the program for more than 20 days, we will consider this as non-attendance. In order to maintain the quality of our service we are unable to accommodate repeated non-attendance and may have to close your file with the service. 
+
+Sometimes there may be a need to contact you by telephone, for example if we have any concerns about your safety or if you request to be contacted by phone. 
+
+For the first week, I would like you to complete module 1. This module should already be open for you to access. 
+
+If you have any questions or need any further support, please do not hesitate to send me a message on OCD-NET. You can also reach me at [EMAIL].
+
+Best wishes, 
+
+[NAME]
+
+</details>
+<br>
+
 We recommend that therapists check and respond to messages at least once per day. Patients in the studies on BDD-NET and OCD-NET have all received responses within 24 hours on weekdays. We believe that the frequent feedback from a therapist is important to keep patients engaged in the therapy throughout treatment.
 
 ### Keep your messages short
