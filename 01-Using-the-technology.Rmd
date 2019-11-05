@@ -41,6 +41,8 @@ To create a new patient login on the platform, go to the participant overview by
 
 ![Therapists can generate secure passwords for patients using the "change password" button](images/new-participant.png)
 
+**Important: Make sure phone numbers and email addresses are in the correct format.** Phone numbers should be in international format, meaning that you drop the leading zero and enter the counrty code instead (England is +44). For example, the English number 08712221156 should be entered as +448712221156.
+
 Fields not needed are:
 
 * Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists
