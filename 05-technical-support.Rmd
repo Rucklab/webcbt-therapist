@@ -8,18 +8,20 @@ The platform is designed to be user-friendly for patients with varying technical
 
 ### Forgotten username or password
 
-<iframe src="https://player.vimeo.com/video/356599232" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/356599232">How to reset participant password</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/426170346" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/426170346">How to reset participant password</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 If a patient has forgotten their password, they can request a new one at the login screen:
 
 ![](images/patient-login.png)
 
-This request will trigger a **?** symbol next to their name in the participant overview. Navigate to the patient in question and the *Participant stats* tab. Click the *Change password* button. The site generates a new, secure, password that can be sent to the patient via SMS.
+This request will trigger a **?** symbol next to their name in the participant overview. Navigate to the patient in question and the *Participant stats* tab. Click the *Send password link* button. This sends an email or text message to the patient where they can select a new password.
 
 If they have forgotten their username, simply look at their *Participant stats* where **Login** is their username.
 
-![Change password button](images/change-password.png)
+![Send password link button](images/password-link-button.png)
+
+![The {LINK} in the email body includes the generated link](images/password-link-window.png)
 
 ### The website does not work
 

@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html >
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 7 Workshop material | OCD-NET &amp; BDD-NET therapist resources</title>
-  <meta name="description" content="Online resources for therapists.">
-  <meta name="generator" content="bookdown  and GitBook 2.6.7">
+  <meta name="description" content="Online resources for therapists." />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 7 Workshop material | OCD-NET &amp; BDD-NET therapist resources" />
   <meta property="og:type" content="book" />
@@ -22,17 +21,17 @@
   <meta name="twitter:description" content="Online resources for therapists." />
   
 
-<meta name="author" content="Oskar Flygare, Christian Rück, Brjánn Ljótsson, Jesper Enander &amp; Erik Andersson">
+<meta name="author" content="Oskar Flygare, Christian Rück, Brjánn Ljótsson, Jesper Enander &amp; Erik Andersson" />
 
 
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="technical-support.html">
-<link rel="next" href="references.html">
+<link rel="prev" href="technical-support.html"/>
+<link rel="next" href="references.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -40,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -221,7 +223,7 @@
 <li>First name: Enter a first name, anything goes</li>
 <li>Last name: Enter a last name, anything goes</li>
 <li>Group: Select <strong>Test patients</strong></li>
-<li>Password: Click “Change password”, then <strong>copy the generated password</strong>, click &quot;Change password in the pop-up window</li>
+<li>Password: Click “Change password”, then <strong>copy the generated password</strong>, click "Change password in the pop-up window</li>
 <li>Temporary flag text: <strong>Paste the password</strong> and click “Save” at the bottom of the page.</li>
 <li>Assign your colleague as the therapist, click “Save” again</li>
 </ul>
@@ -312,7 +314,7 @@
 <li>You see another symbol (a warning triangle with an exclamation mark) that indicates that the patient has answered item 9 on the PHQ-9 with “more than half the days / nearly every day”.</li>
 <li>Open the flag by <strong>clicking the pencil</strong>, write a note about actions taken, and select <strong>close flag with this note</strong>, then save.</li>
 <li>Perhaps you need to do a follow-up with the patient a few days later? A good way to display such information is to create a temporary note that “stars” the patient. Navigate to the <strong>Participant stats</strong> tab.</li>
-<li>Below the User Information there’s a text box that says “Temporary flag text (”stars&quot; the participant)&quot;. Write a note about actions to be taken, e.g. <em>telephone assessment for suicidality on March 31st, follow-up by April 3rd</em>,</li>
+<li>Below the User Information there’s a text box that says “Temporary flag text (”stars" the participant)". Write a note about actions to be taken, e.g. <em>telephone assessment for suicidality on March 31st, follow-up by April 3rd</em>,</li>
 <li>Click <strong>save</strong> on the bottom of the page. Close the participant and go back to the <strong>Participant search</strong> overview.</li>
 <li>There’s now a star next to the “Last login” column, if you hover over it you can read your comment. This will give you an easy overview of actions to be taken for different patients. Once you remove the text in the <strong>Participant stats</strong> tab the star will disappear.</li>
 </ul>
@@ -371,11 +373,13 @@
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -383,12 +387,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -400,6 +403,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },
