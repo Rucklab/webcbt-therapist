@@ -1,0 +1,17 @@
+# Platform specifications
+
+The treatments are hosted on a platform called *BASS*, which is developed and maintained by the [eHealth Core Facility](https://ki.se/en/research/internet-delivered-interventions) at Karolinska Institutet.
+
+## Physical access control
+
+BASS is hosted at the IT department of Karolinska Institutet. The facility is equipped with steel walls and doors, a keycard access system with pin code, an alarm system connected to a security firm, as well as redundant cooling and power supply systems.
+
+## System and personal data access
+
+Login to the BASS platform requires two-factor authentication, and passwords are stored with strong encryption in PHP and Clojure. The platform has a fine-grained privilege-system which ensures that specific users only access the specific tools and views needed for their role (e.g., a therapist typically only has access to their own assigned participants but a project manager can see all participants within a project).
+
+All editing, viewing, and report extraction of personal data is logged. Safety backups of projects are stored in a class 3 datacenter owned and operated by KI. Daily backups are kept for 7 days and weekly backups are kept for 180 days.
+
+## Intrusion and malware protection
+
+The BASS platform uses https connection with a strong encryption and authentication protocol, and there are multiple security features in place to detect intrusion attempts and malware on the site. For more details regarding these features, please contact the Karolinska Institutet project manager for your project.
