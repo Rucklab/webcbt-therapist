@@ -82,4 +82,8 @@ additional-functionality
 questionnaires-1
 my-settings
 im-done.-what-now
+platform-specifications
+physical-access-control
+system-and-personal-data-access
+intrusion-and-malware-protection
 references
