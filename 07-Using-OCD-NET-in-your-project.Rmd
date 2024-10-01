@@ -75,7 +75,7 @@ The BASS platform has an extensive export function which allows project managers
 
 ### Data analysis
 
-Is there a need for the OCD-NET to provide support in analysing the data, or can this be handled by the collaborator? This is important to consider already when planning the project as it affects the types of agreements needed.
+Is there a need for the OCD-NET team to provide support in analysing the data, or can this be handled by the collaborator? This is important to consider already when planning the project as it affects the types of agreements needed.
 
 ### Archiving
 
