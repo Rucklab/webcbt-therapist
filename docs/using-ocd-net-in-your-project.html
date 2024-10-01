@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 2 Using the technology | OCD-NET &amp; BDD-NET therapist resources</title>
+  <title>Chapter 8 Using OCD-NET in your project | OCD-NET &amp; BDD-NET therapist resources</title>
   <meta name="description" content="Online resources for therapists." />
   <meta name="generator" content="bookdown 0.37 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 2 Using the technology | OCD-NET &amp; BDD-NET therapist resources" />
+  <meta property="og:title" content="Chapter 8 Using OCD-NET in your project | OCD-NET &amp; BDD-NET therapist resources" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="Online resources for therapists." />
   <meta name="github-repo" content="oskarflygare/webcbt-therapist" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 2 Using the technology | OCD-NET &amp; BDD-NET therapist resources" />
+  <meta name="twitter:title" content="Chapter 8 Using OCD-NET in your project | OCD-NET &amp; BDD-NET therapist resources" />
   
   <meta name="twitter:description" content="Online resources for therapists." />
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="ocd-net-therapist-manual.html"/>
+<link rel="prev" href="workshop-material.html"/>
+<link rel="next" href="references.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -268,189 +268,100 @@ div.csl-indent {
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="using-the-technology" class="section level1 hasAnchor" number="2">
-<h1><span class="header-section-number">Chapter 2</span> Using the technology<a href="using-the-technology.html#using-the-technology" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="quick-start" class="section level2 hasAnchor" number="2.1">
-<h2><span class="header-section-number">2.1</span> Quick start<a href="using-the-technology.html#quick-start" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>If you want to explore the platform yourself, you can use test therapist and test patient logins provided to try out the features. We generally recommend that you use the platform while reading this manual, to test features as you go along.</p>
-<p><strong>Therapists access the platform via this URL: <a href="https://webcbt.se/ocdnet">https://webcbt.se/ocdnet</a></strong>. This is where therapists enter their username and password to enter the treatment platform. This URL can be used for both OCD-NET and BDD-NET.</p>
+<div id="using-ocd-net-in-your-project" class="section level1 hasAnchor" number="8">
+<h1><span class="header-section-number">Chapter 8</span> Using OCD-NET in your project<a href="using-ocd-net-in-your-project.html#using-ocd-net-in-your-project" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>First of all, thank you for showing an interest in using the OCD-NET and/or BDD-NET treatment in one of your projects! The most common form of collaboration is with other academic researchers, for example evaluating the treatment in a new context or as part of a larger study. This chapter contains information that might be useful when deciding if OCD-NET is the right option for your project.</p>
+<p>If you are interested in collaborating, please contact Christian Rück (christian.ruck [at] ki.se) and Oskar Flygare (oskar.flygare [at] ki.se).</p>
+<div id="before-data-collection-begins" class="section level2 hasAnchor" number="8.1">
+<h2><span class="header-section-number">8.1</span> Before data collection begins<a href="using-ocd-net-in-your-project.html#before-data-collection-begins" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The following steps usually take place after an initial contact with our team, where we introduce ourselves and talk briefly about the possibility of collaborating. Depending on the type of research project, some sections may not be necessary.</p>
+<div id="agreements" class="section level3 hasAnchor" number="8.1.1">
+<h3><span class="header-section-number">8.1.1</span> Agreements<a href="using-ocd-net-in-your-project.html#agreements" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The intellectual property rights of OCD-NET are held by Erik Andersson and Christian Rück, and the intellectual property rights of BDD-NET are held by Jesper Enander and Christian Rück. A necessary part of any collaboration is therefore that they agree (in writing or verbally) to the use of the treatment for the purposes of the specific project.</p>
+<p>The treatments are hosted on a web-platform called <em>BASS</em>, which is developed and maintained by the <a href="https://ki.se/en/research/internet-delivered-interventions">eHealth Core Facility</a> at Karolinska Institutet. Once the intellectual property holders have agreed to the project, the next step is to set up two agreements between the collaborator and the platform maintainers: a <em>Data Transfer and Use Agreement</em> as well as a <em>Service Agreement</em>.</p>
+<p>The <strong>Data Transfer and Use Agreement</strong> specifies that the project will collect and store sensitive data on the platform, and lists roles and obligations for each party.</p>
+<p>The <strong>Service Agreement</strong> verifies the use of the platform as well as reimbursement details. The cost to use the platform depends on factors such as the size of the project, where the project takes place, et cetera.</p>
+<p>We will provide up-to-date versions of these agreements for review and signing during the setup process.</p>
 </div>
-<div id="platform-use-overview" class="section level2 hasAnchor" number="2.2">
-<h2><span class="header-section-number">2.2</span> Platform use overview<a href="using-the-technology.html#platform-use-overview" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>There are five common scenarios during the course of treatment:</p>
+<div id="domain-prefix" class="section level3 hasAnchor" number="8.1.2">
+<h3><span class="header-section-number">8.1.2</span> Domain prefix<a href="using-ocd-net-in-your-project.html#domain-prefix" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Most projects receive their own domain prefix, in the following style: <a href="https://" class="uri">https://</a><strong>prefix</strong>.webcbt.se</p>
+<p>To speed up the setup process, you can decide the domain prefix as early as possible. Typical choices are linked to the country or university, e.g. ocdnet-jp.webcbt.se / ocdnet-ki.webcbt.se. The prefix can also use the project name without “ocdnet”.</p>
+</div>
+<div id="translation" class="section level3 hasAnchor" number="8.1.3">
+<h3><span class="header-section-number">8.1.3</span> Translation<a href="using-ocd-net-in-your-project.html#translation" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Let us know if the treatment and interface should be translated to another language (only available for the patient platform, therapist platform is in English). The translation is typically done by a member of the collaborating research group with expertise in the treatment of OCD/BDD, and we provide the necessary materials in English.</p>
 <ul>
-<li>Responding to messages</li>
-<li>Reviewing homework</li>
-<li>Opening new treatment modules</li>
-<li>Reviewing questionnaires</li>
-<li>Responding to warning flags</li>
-</ul>
-<p>These actions can all be accessed in the participant overview, shown below:
-<img src="images/participant-overview.png" alt="Participant overview: this is the platform from a therapist’s perspective where you can navigate to the different tasks involved in ICBT" /></p>
-<p>A typical day as a therapist includes responding to one or more messages, reviewing homework and opening up a new module. Once in a while therapists contact inactive patients or assess a warning flag.</p>
-<p>The majority of day to day tasks are accessed via the <em>Participant search</em> menu. The menu is located at the left-hand side of the browser window. Closing the current participant and clicking <em>Participant search</em> will get you back to the participant overview. To access individual participants, click the pencil next to their name.</p>
-<p><img src="images/pencil.png" /></p>
-</div>
-<div id="navigation" class="section level2 hasAnchor" number="2.3">
-<h2><span class="header-section-number">2.3</span> Navigation<a href="using-the-technology.html#navigation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The menu bar on the left may expand depending on administrative rights. Other parts of the menu include administrative settings such as editing treatment content, editing assessments, editing conditions for when participant assessments are flagged, and changing settings to the site itself. These will not be relevant to most therapists and we do not cover them in detail here. Just remember that you can always go back to the default view by closing the current participant and navigating to <em>Participant search</em> in the left-hand menu.</p>
-<p><img src="images/therapist-menu.png" /></p>
-</div>
-<div id="create-new-patient-login" class="section level2 hasAnchor" number="2.4">
-<h2><span class="header-section-number">2.4</span> Create new patient login<a href="using-the-technology.html#create-new-patient-login" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<iframe src="https://player.vimeo.com/video/356599458" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-<p>
-<a href="https://vimeo.com/356599458">How to create a new user</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.
-</p>
-<p>To create a new patient login on the platform, go to the participant overview by selecting <em>Participant search</em> in the left-hand menu. Select <em>Create new participant</em> at the bottom of the participant list. Therapists can use the “change password” button to generate secure passwords for patients.</p>
-<div class="float">
-<img src="images/new-participant.png" alt="Therapists can generate secure passwords for patients using the “change password” button" />
-<div class="figcaption">Therapists can generate secure passwords for patients using the “change password” button</div>
-</div>
-<p><strong>Important: Make sure phone numbers and email addresses are in the correct format.</strong> Phone numbers should be in international format, meaning that you drop the leading zero and enter the counrty code instead (England is +44). For example, the English number 08712221156 should be entered as +448712221156.</p>
-<p>Fields not needed are:</p>
-<ul>
-<li>Temporary flag text: Usually not needed at creation but might come in handy later for communicating between therapists</li>
-<li>Temporary notes: Usually not needed but can be used to store information</li>
+<li>OCD-NET is available in Swedish, English, German, Portuguese, and Japanese.</li>
+<li>BDD-NET is available in Swedish, English, and German.</li>
 </ul>
 </div>
-<div id="filtering-the-participant-overview" class="section level2 hasAnchor" number="2.5">
-<h2><span class="header-section-number">2.5</span> Filtering the participant overview<a href="using-the-technology.html#filtering-the-participant-overview" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>To get a quick overview of a long participant list, filter patients that meet certain criteria, for example belonging to certain groups in treatment of certain treatments. There is a button called <em>Selection</em> above the participant list. We recommend that therapists use the “My participants” filter to show only patients assigned to them.</p>
-<p><img src="images/filter-participants.png" /></p>
+<div id="assessments" class="section level3 hasAnchor" number="8.1.4">
+<h3><span class="header-section-number">8.1.4</span> Assessments<a href="using-ocd-net-in-your-project.html#assessments" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Which assessment points will be relevant for your project? For context, a common setup when evaluating OCD-NET is Pre-treatment, weekly during treatment, Post-treatment and Follow-up. It is also possible to include custom assessments at specific time-points, e.g. week 2 in treatment.</p>
 </div>
-<div id="writing-and-responding-to-messages" class="section level2 hasAnchor" number="2.6">
-<h2><span class="header-section-number">2.6</span> Writing and responding to messages<a href="using-the-technology.html#writing-and-responding-to-messages" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>A new message from a patient will be indicated by this icon <img src="images/message-icon.png" /> in the participant overview. Click the pencil next to the participant’s name to access that patient. Navigate to <em>Treatments -&gt; participant messages</em> to view the message and write a response. See the chapter <a href="being-an-effective-icbt-therapist.html#being-an-effective-icbt-therapist">Being an effective ICBT therapist</a> for guidelines on how to write messages.</p>
-<p><img src="images/therapist-messages.png" /></p>
+<div id="questionnaires-2" class="section level3 hasAnchor" number="8.1.5">
+<h3><span class="header-section-number">8.1.5</span> Questionnaires<a href="using-ocd-net-in-your-project.html#questionnaires-2" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Which questionnaires will be used in the project? If they are administered via the BASS platform they need to be added prior to data collection, which is straightforward for common Likert-type scales but can require more time for questionnaires with custom layouts. Please contact us to receive guidance on recommended questionnaires and for an overview of available questionnaires in your language.</p>
 </div>
-<div id="homework-review" class="section level2 hasAnchor" number="2.7">
-<h2><span class="header-section-number">2.7</span> Homework review<a href="using-the-technology.html#homework-review" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<iframe src="https://player.vimeo.com/video/356626585" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-<p>
-<a href="https://vimeo.com/356626585">Reviewing homework assignments</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.
-</p>
-<p>A completed homework assignment is shown in the <strong>Homework</strong> column in the participant overview. Click the pencil next to the participant and navigate to <em>Treatments -&gt; Treatment access</em> to review the homework and mark it as completed.</p>
-<div class="float">
-<img src="images/homework-complete.png" alt="Completed homework assignments will show up for review in the treatment overview, click the checkmark or red button to mark it as completed or send back to the participant." />
-<div class="figcaption">Completed homework assignments will show up for review in the treatment overview, click the checkmark or red button to mark it as completed or send back to the participant.</div>
+<div id="study-design" class="section level3 hasAnchor" number="8.1.6">
+<h3><span class="header-section-number">8.1.6</span> Study design<a href="using-ocd-net-in-your-project.html#study-design" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>What are the research questions, and what is the role of OCD-NET in your project? Providing as much detail as possible will help us when planning the project and setting up various features on the BASS platform. Things like the research plan, statistical analysis plan, or pre-registration are helpful.</p>
 </div>
-<p>Please note that patients are not notified if you mark the homework as incomplete. Write a message to explain what additional information you need from the patient when they send it in again.</p>
-<p>Internet-based CBT relies heavily on self-directed activities and homework review is a good time to check whether the patient has grasped important concepts and are able to apply them to their own situation.</p>
+<div id="ethical-approval" class="section level3 hasAnchor" number="8.1.7">
+<h3><span class="header-section-number">8.1.7</span> Ethical approval<a href="using-ocd-net-in-your-project.html#ethical-approval" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Most projects using OCD-NET are collecting sensitive personal data and therefore require ethical approval. Proof of ethical approval from the relevant authority needs to be provided before data collection begins.</p>
 </div>
-<div id="treatment-modules" class="section level2 hasAnchor" number="2.8">
-<h2><span class="header-section-number">2.8</span> Treatment modules<a href="using-the-technology.html#treatment-modules" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>When a patient has read a module and completed the corresponding homework assignment(s), they are ready for the next module. To grant access to a new module, navigate to <em>Treatments -&gt; Treatment access</em> and check the box next to the next module. A date will appear next to the module indicating when the module was activated.</p>
-<div class="float">
-<img src="images/module-access.png" alt="Check the box to the left to open a new module" />
-<div class="figcaption">Check the box to the left to open a new module</div>
-</div>
-<p>The number of modules and weeks in treatment varies between treatment protocols but a rough guideline is that patients should progress through one module per week. Some treatment techniques, like exposure with response prevention, are spread out across several modules to emphasise their importance and give participants sufficient time to get started on the technique.</p>
-</div>
-<div id="questionnaires" class="section level2 hasAnchor" number="2.9">
-<h2><span class="header-section-number">2.9</span> Questionnaires<a href="using-the-technology.html#questionnaires" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Before, during, and after treatment, patients are asked to fill out questionnaires. When new questionnaires are activated they appear as the patient logs onto the platform. Therapists can review and change which questionnaires should appear at which day in <em>Assessments</em> but we recommend that therapists stick to the standard schedule whenever possible. Questionnaires for each patient are listed in this view, click the paper icon to view responses.</p>
-<div class="float">
-<img src="images/assessments-list.png" alt="Click the paper icon to view responses" />
-<div class="figcaption">Click the paper icon to view responses</div>
+<div id="our-role" class="section level3 hasAnchor" number="8.1.8">
+<h3><span class="header-section-number">8.1.8</span> Our role<a href="using-ocd-net-in-your-project.html#our-role" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>What will be the role of members of our team at Karolinska Institutet? We always provide technical support and guidance on study design, but if more time and support is needed from us (e.g. training therapists, supervising therapists, data analysis, contributing to academic publications) this should be discussed prior to data collection as it might affect which agreements and approvals need to be in place for the project.</p>
 </div>
 </div>
-<div id="warning-flags" class="section level2 hasAnchor" number="2.10">
-<h2><span class="header-section-number">2.10</span> Warning flags<a href="using-the-technology.html#warning-flags" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<iframe src="https://player.vimeo.com/video/356626839" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-<p>
-<a href="https://vimeo.com/356626839">How to manage warning flags</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.
-</p>
-<p>The ICBT platform will display a <em>warning flag</em> next to a patient’s name for certain events. The most common flags are due to non-response to questionnaires. These serve as prompts to therapists to take further action, for example reaching out by phone to a patient or sending them another text message reminder.</p>
-<p>Once a warning flag has been noticed and dealt with, indicate the action taken in the <em>temporary flag text</em> box in the <em>Participant stats</em> tab (shown below).
-<img src="images/temporary-flag-text.png" alt="Temporary flag texts aid communication between therapists when they manage flags" /></p>
-<ul>
-<li>Patient has not responded to measurement in time: <img src="images/measurement-delay-flag.png" /></li>
-</ul>
-<div id="suicidality-warning-flags" class="section level3 hasAnchor" number="2.10.1">
-<h3><span class="header-section-number">2.10.1</span> Suicidality warning flags<a href="using-the-technology.html#suicidality-warning-flags" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>The most important type of warning flag is due to heightened suicidality. The platform is configured to display this flag if a patient responds 2 or 3 on the suicidality question in PHQ-9.</p>
-<ul>
-<li>Warning flag to indicate suicidal ideation: <img src="images/suicidality-warning.png" /></li>
-</ul>
-<p>Therapists should refer to local clinical guidelines when performing suicidality assessments and taking action. We recommend that therapists ask for guidance of their supervisors if there are any uncertainties.</p>
-<p>Once the level of suicidality is deemed to be low enough to not require further attention, therapists can remove the warning flag under the <em>Flags</em> tab for the participant. Flags are listed under the Flags tab, click on the pencil to edit a flag.</p>
-<div class="float">
-<img src="images/flags-tab.png" alt="Click on the pencil to edit a flag." />
-<div class="figcaption">Click on the pencil to edit a flag.</div>
+<div id="during-data-collection" class="section level2 hasAnchor" number="8.2">
+<h2><span class="header-section-number">8.2</span> During data collection<a href="using-ocd-net-in-your-project.html#during-data-collection" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="therapist-training" class="section level3 hasAnchor" number="8.2.1">
+<h3><span class="header-section-number">8.2.1</span> Therapist training<a href="using-ocd-net-in-your-project.html#therapist-training" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>If the therapists who will provide treatment through OCD-NET lack previous experience in the psychological treatment of OCD and/or internet-delivered treatments, we recommend that they undergo training prior to using OCD-NET. We provide half-day or full-day workshops for new therapists that will prepare them for using OCD-NET in an effective manner.</p>
 </div>
-<div class="float">
-<img src="images/remove-flag.png" alt="Once you have managed a flag, you can make a note that lists actions taken, and remove the flag." />
-<div class="figcaption">Once you have managed a flag, you can make a note that lists actions taken, and remove the flag.</div>
+<div id="therapist-supervision" class="section level3 hasAnchor" number="8.2.2">
+<h3><span class="header-section-number">8.2.2</span> Therapist supervision<a href="using-ocd-net-in-your-project.html#therapist-supervision" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Please let us know if there is a need for regular supervision of therapists during the project, for example weekly or monthly calls where therapists can discuss current challenges and ask questions about the treatment.</p>
+</div>
+<div id="data-collection-procedures" class="section level3 hasAnchor" number="8.2.3">
+<h3><span class="header-section-number">8.2.3</span> Data collection procedures<a href="using-ocd-net-in-your-project.html#data-collection-procedures" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The BASS platform is designed to collect responses to patient-reported and clinician-reported questionnaires. If you have other means of data collection (e.g., pen and paper administered questionnaires at clinical visits) or use external tools to collect specific data, please let us know and we can set up the platform accordingly.</p>
 </div>
 </div>
+<div id="once-data-collection-has-finished" class="section level2 hasAnchor" number="8.3">
+<h2><span class="header-section-number">8.3</span> Once data collection has finished<a href="using-ocd-net-in-your-project.html#once-data-collection-has-finished" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="data-export" class="section level3 hasAnchor" number="8.3.1">
+<h3><span class="header-section-number">8.3.1</span> Data export<a href="using-ocd-net-in-your-project.html#data-export" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The BASS platform has an extensive export function which allows project managers to select what data to export for further analysis. We often recommend collaborators to test this feature using fake patient data to see what the export looks like, in order to effectively plan their analysis.</p>
 </div>
-<div id="assign-new-therapist" class="section level2 hasAnchor" number="2.11">
-<h2><span class="header-section-number">2.11</span> Assign new therapist<a href="using-the-technology.html#assign-new-therapist" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The most typical scenario is that each patient is treated by one therapist throughout treatment, but it is not uncommon for a second therapist to act as backup if the primary therapist is not available.</p>
-<p>To assign another therapist or change therapist, navigate to the patient in question and click the <em>Participant stats</em> tab. At the bottom of that page, there is a list of therapists and those assigned to the patient will have a checkmark next to them. Simply un-check whoever is to be removed and check whoever is to be assigned the patient.</p>
-<div class="float">
-<img src="images/assign-therapist.png" alt="The numbers next to therapists indicate how many patients they are assigned to" />
-<div class="figcaption">The numbers next to therapists indicate how many patients they are assigned to</div>
+<div id="data-analysis" class="section level3 hasAnchor" number="8.3.2">
+<h3><span class="header-section-number">8.3.2</span> Data analysis<a href="using-ocd-net-in-your-project.html#data-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Is there a need for the OCD-NET to provide support in analysing the data, or can this be handled by the collaborator? This is important to consider already when planning the project as it affects the types of agreements needed.</p>
 </div>
-</div>
-<div id="ending-treatment" class="section level2 hasAnchor" number="2.12">
-<h2><span class="header-section-number">2.12</span> Ending treatment<a href="using-the-technology.html#ending-treatment" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>When you have finished a course of treatment using OCD-NET or BDD-NET, there are a few steps to take. They may differ depending on whether treatment ended prematurely or was completed.</p>
-<ul>
-<li>Move the participant to another group, typically <strong>post-UNITNAME</strong>.</li>
-<li>If treatment ended prematurely: Make a short note of the reason for ending treatment in the temporary flag text or temporary notes area.</li>
-<li>If treatment ended prematurely: De-activate all weekly assessments in the assessments tab by de-selecting them. Please keep the post-treatment assessment active.</li>
-<li>Remove yourself as a therapist. This means that you will no longer see the patient in the <em>My Participants</em> overview.</li>
-</ul>
-</div>
-<div id="ocd-net-and-bdd-net-for-patients" class="section level2 hasAnchor" number="2.13">
-<h2><span class="header-section-number">2.13</span> OCD-NET and BDD-NET for patients<a href="using-the-technology.html#ocd-net-and-bdd-net-for-patients" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>We encourage therapists using OCD-NET and BDD-NET to login with one of the test patient accounts to see what the platform looks like for patients. If you have participated in the workshop training, you most likely have a test patient account already.</p>
-<div id="access" class="section level3 hasAnchor" number="2.13.1">
-<h3><span class="header-section-number">2.13.1</span> Access<a href="using-the-technology.html#access" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Patients access the platform from the patient-URL, which is different from the therapist URL.</p>
-<ul>
-<li><a href="https://ocdnet.webcbt.se">OCD-NET</a><br />
-</li>
-<li><a href="https://bddnet.webcbt.se">BDD-NET</a></li>
-</ul>
-<div class="float">
-<img src="images/patient-login.png" alt="Patients can click the “I lost my password” text to receive a new password." />
-<div class="figcaption">Patients can click the “I lost my password” text to receive a new password.</div>
+<div id="archiving" class="section level3 hasAnchor" number="8.3.3">
+<h3><span class="header-section-number">8.3.3</span> Archiving<a href="using-ocd-net-in-your-project.html#archiving" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The web platform used to host your OCD-NET project is not a permanent storage solution. Plan the long-term storage and archiving of data collected in the project, for example on university-operated servers.</p>
 </div>
 </div>
-<div id="using-the-technology-as-a-patient" class="section level3 hasAnchor" number="2.13.2">
-<h3><span class="header-section-number">2.13.2</span> Using the technology as a patient<a href="using-the-technology.html#using-the-technology-as-a-patient" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<div class="float">
-<img src="images/patient-overview.png" alt="Landing page for patients" />
-<div class="figcaption">Landing page for patients</div>
+<div id="technical-platform-specifications" class="section level2 hasAnchor" number="8.4">
+<h2><span class="header-section-number">8.4</span> Technical platform specifications<a href="using-ocd-net-in-your-project.html#technical-platform-specifications" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The sections below list some technical details regarding the platform security which is sometimes useful when applying for ethical approval.</p>
+<div id="physical-access-control" class="section level3 hasAnchor" number="8.4.1">
+<h3><span class="header-section-number">8.4.1</span> Physical access control<a href="using-ocd-net-in-your-project.html#physical-access-control" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>BASS is hosted at the IT department of Karolinska Institutet. The facility is equipped with steel walls and doors, a keycard access system with pin code, an alarm system connected to a security firm, as well as redundant cooling and power supply systems.</p>
 </div>
-<p>The landing page for patients includes basic information about the treatment, whether they have been granted access to new modules or have received new messages.</p>
-<p>In the menu bar at the top of the page, patients can easily navigate the platform, view treatment content, report problems, and see the <em>Privacy Notice</em>.</p>
-<div class="float">
-<img src="images/patient-messages.png" alt="Messages in the patient platform" />
-<div class="figcaption">Messages in the patient platform</div>
+<div id="system-and-personal-data-access" class="section level3 hasAnchor" number="8.4.2">
+<h3><span class="header-section-number">8.4.2</span> System and personal data access<a href="using-ocd-net-in-your-project.html#system-and-personal-data-access" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Login to the BASS platform requires two-factor authentication, and passwords are stored with strong encryption in PHP and Clojure. The platform has a fine-grained privilege-system which ensures that specific users only access the specific tools and views needed for their role (e.g., a therapist typically only has access to their own assigned participants but a project manager can see all participants within a project).</p>
+<p>All editing, viewing, and report extraction of personal data is logged. Safety backups of projects are stored in a class 3 datacenter owned and operated by KI. Daily backups are kept for 7 days and weekly backups are kept for 180 days.</p>
 </div>
-<div class="float">
-<img src="images/patient-moduletext.png" alt="Module text" />
-<div class="figcaption">Module text</div>
-</div>
-<div class="float">
-<img src="images/patient-homework.png" alt="Homework assignments" />
-<div class="figcaption">Homework assignments</div>
-</div>
-<div class="float">
-<img src="images/patient-worksheet.png" alt="Worksheets, patients click the + sign to add new tabs with information" />
-<div class="figcaption">Worksheets, patients click the + sign to add new tabs with information</div>
-</div>
-<div class="float">
-<img src="images/patient-problems.png" alt="Patients can report problems, which will display as a flag in the therapist view" />
-<div class="figcaption">Patients can report problems, which will display as a flag in the therapist view</div>
-</div>
+<div id="intrusion-and-malware-protection" class="section level3 hasAnchor" number="8.4.3">
+<h3><span class="header-section-number">8.4.3</span> Intrusion and malware protection<a href="using-ocd-net-in-your-project.html#intrusion-and-malware-protection" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The BASS platform uses https connection with a strong encryption and authentication protocol, and there are multiple security features in place to detect intrusion attempts and malware on the site. For more details regarding these features, please contact the Karolinska Institutet project manager for your project.</p>
 
 </div>
 </div>
@@ -460,8 +371,8 @@ div.csl-indent {
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="ocd-net-therapist-manual.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="workshop-material.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -492,7 +403,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/oskarflygare/webcbt-therapist/edit/master/01-Using-the-technology.Rmd",
+"link": "https://github.com/oskarflygare/webcbt-therapist/edit/master/07-Using-OCD-NET-in-your-project.Rmd",
 "text": "Edit"
 },
 "history": {
