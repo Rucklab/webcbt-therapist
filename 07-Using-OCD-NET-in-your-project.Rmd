@@ -1,0 +1,100 @@
+# Using OCD-NET in your project
+
+First of all, thank you for showing an interest in using the OCD-NET and/or BDD-NET treatment in one of your projects! The most common form of collaboration is with other academic researchers, for example evaluating the treatment in a new context or as part of a larger study. This chapter contains information that might be useful when deciding if OCD-NET is the right option for your project.
+
+If you are interested in collaborating, please contact Christian Rück (christian.ruck [at] ki.se) and Oskar Flygare (oskar.flygare [at] ki.se).
+
+## Before data collection begins
+
+The following steps usually take place after an initial contact with our team, where we introduce ourselves and talk briefly about the possibility of collaborating. Depending on the type of research project, some sections may not be necessary.
+
+### Agreements
+
+The intellectual property rights of OCD-NET are held by Erik Andersson and Christian Rück, and the intellectual property rights of BDD-NET are held by Jesper Enander and Christian Rück. A necessary part of any collaboration is therefore that they agree (in writing or verbally) to the use of the treatment for the purposes of the specific project.
+
+The treatments are hosted on a web-platform called *BASS*, which is developed and maintained by the [eHealth Core Facility](https://ki.se/en/research/internet-delivered-interventions) at Karolinska Institutet. Once the intellectual property holders have agreed to the project, the next step is to set up two agreements between the collaborator and the platform maintainers: a *Data Transfer and Use Agreement* as well as a *Service Agreement*.
+
+The **Data Transfer and Use Agreement** specifies that the project will collect and store sensitive data on the platform, and lists roles and obligations for each party.
+
+The **Service Agreement** verifies the use of the platform as well as reimbursement details. The cost to use the platform depends on factors such as the size of the project, where the project takes place, et cetera.
+
+We will provide up-to-date versions of these agreements for review and signing during the setup process.
+
+### Domain prefix
+
+Most projects receive their own domain prefix, in the following style: https://**prefix**.webcbt.se
+
+To speed up the setup process, you can decide the domain prefix as early as possible. Typical choices are linked to the country or university, e.g. ocdnet-jp.webcbt.se / ocdnet-ki.webcbt.se. The prefix can also use the project name without “ocdnet”. 
+
+### Translation
+
+Let us know if the treatment and interface should be translated to another language (only available for the patient platform, therapist platform is in English). The translation is typically done by a member of the collaborating research group with expertise in the treatment of OCD/BDD, and we provide the necessary materials in English.
+
+- OCD-NET is available in Swedish, English, German, Portuguese, and Japanese.
+- BDD-NET is available in Swedish, English, and German.
+
+### Assessments
+
+Which assessment points will be relevant for your project? For context, a common setup when evaluating OCD-NET is Pre-treatment, weekly during treatment, Post-treatment and Follow-up. It is also possible to include custom assessments at specific time-points, e.g. week 2 in treatment.
+
+### Questionnaires
+
+Which questionnaires will be used in the project? If they are administered via the BASS platform they need to be added prior to data collection, which is straightforward for common Likert-type scales but can require more time for questionnaires with custom layouts. Please contact us to receive guidance on recommended questionnaires and for an overview of available questionnaires in your language.
+
+### Study design
+
+What are the research questions, and what is the role of OCD-NET in your project? Providing as much detail as possible will help us when planning the project and setting up various features on the BASS platform. Things like the research plan, statistical analysis plan, or pre-registration are helpful.
+
+### Ethical approval
+
+Most projects using OCD-NET are collecting sensitive personal data and therefore require ethical approval. Proof of ethical approval from the relevant authority needs to be provided before data collection begins.
+
+### Our role
+
+What will be the role of members of our team at Karolinska Institutet? We always provide technical support and guidance on study design, but if more time and support is needed from us (e.g. training therapists, supervising therapists, data analysis, contributing to academic publications) this should be discussed prior to data collection as it might affect which agreements and approvals need to be in place for the project.
+
+## During data collection
+
+### Therapist training
+
+If the therapists who will provide treatment through OCD-NET lack previous experience in the psychological treatment of OCD and/or internet-delivered treatments, we recommend that they undergo training prior to using OCD-NET. We provide half-day or full-day workshops for new therapists that will prepare them for using OCD-NET in an effective manner.
+
+### Therapist supervision
+
+Please let us know if there is a need for regular supervision of therapists during the project, for example weekly or monthly calls where therapists can discuss current challenges and ask questions about the treatment.
+
+### Data collection procedures
+
+The BASS platform is designed to collect responses to patient-reported and clinician-reported questionnaires. If you have other means of data collection (e.g., pen and paper administered questionnaires at clinical visits) or use external tools to collect specific data, please let us know and we can set up the platform accordingly.
+
+## Once data collection has finished
+
+### Data export
+
+The BASS platform has an extensive export function which allows project managers to select what data to export for further analysis. We often recommend collaborators to test this feature using fake patient data to see what the export looks like, in order to effectively plan their analysis.
+
+### Data analysis
+
+Is there a need for the OCD-NET to provide support in analysing the data, or can this be handled by the collaborator? This is important to consider already when planning the project as it affects the types of agreements needed.
+
+### Archiving
+
+The web platform used to host your OCD-NET project is not a permanent storage solution. Plan the long-term storage and archiving of data collected in the project, for example on university-operated servers.
+
+## Technical platform specifications
+
+The sections below list some technical details regarding the platform security which is sometimes useful when applying for ethical approval.
+
+### Physical access control
+
+BASS is hosted at the IT department of Karolinska Institutet. The facility is equipped with steel walls and doors, a keycard access system with pin code, an alarm system connected to a security firm, as well as redundant cooling and power supply systems.
+
+### System and personal data access
+
+Login to the BASS platform requires two-factor authentication, and passwords are stored with strong encryption in PHP and Clojure. The platform has a fine-grained privilege-system which ensures that specific users only access the specific tools and views needed for their role (e.g., a therapist typically only has access to their own assigned participants but a project manager can see all participants within a project).
+
+All editing, viewing, and report extraction of personal data is logged. Safety backups of projects are stored in a class 3 datacenter owned and operated by KI. Daily backups are kept for 7 days and weekly backups are kept for 180 days.
+
+### Intrusion and malware protection
+
+The BASS platform uses https connection with a strong encryption and authentication protocol, and there are multiple security features in place to detect intrusion attempts and malware on the site. For more details regarding these features, please contact the Karolinska Institutet project manager for your project.
