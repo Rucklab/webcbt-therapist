@@ -4,7 +4,7 @@ This page contains support for common issues that might arise when using the OCD
 
 ## Technical support for patients
 
-The platform is designed to be user-friendly for patients with varying technical know-how. They will, however, require technical support from time to time. If patients report technical issues that you cannot address yourself, send an email to <ocdnet.support@webcbt.se> and ask for assistance.
+The platform is designed to be user-friendly for patients with varying technical know-how. They will, however, require technical support from time to time. If patients report technical issues that you cannot address yourself, send an email to <oskar.flygare@ki.se> and ask for assistance.
 
 ### Forgotten username or password
 
@@ -52,7 +52,7 @@ Sometimes the browser will save cookies that interfere with access to the treatm
 
 ### Creating an account
 
-Send an e-mail to us <ocdnet.support@webcbt.se> containing the following information:
+Send an e-mail to us <oskar.flygare@ki.se> containing the following information:
 
 * Username
 * Full name
@@ -63,12 +63,12 @@ We then create a user and generate a password to be replaced at the first login.
 
 ### Forgotten password
 
-Send an email to <ocdnet.support@webcbt.se> using the NHS-email that was used at registration, and request a password change. We will then generate a new temporary password that is used once, and you will be requested to change the password upon login.
+Send an email to <oskar.flygare@ki.se> using the NHS-email that was used at registration, and request a password change. We will then generate a new temporary password that is used once, and you will be requested to change the password upon login.
 
 ## Other technical issues
 
 Have you spotted an error in the treatment content? Are the questionnaires not displaying correctly? Did you accidentally make some changes that you are not able to revert?
 
-Anything else that is not reviewed in this guide, please let ut know by sending an e-mail to us at <ocdnet.support@webcbt.se> and we will help you.
+Anything else that is not reviewed in this guide, please let ut know by sending an e-mail to us at <oskar.flygare@ki.se> and we will help you.
 
 We strive to improve the treatment content and the experience for therapists continuously and welcome any feedback!

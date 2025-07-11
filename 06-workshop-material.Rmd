@@ -2,7 +2,7 @@
 
 Use this page to complete the workshop for OCD-NET and BDD-NET. In the workshop, you will use the platform as both therapist and patient in order to familiarise yourself with the platform. If you get stuck anywhere along the way, ask one of the trainers or look for help material on this site!
 
-Our support email is <ocdnet.support@webcbt.se>.
+Our support email is <oskar.flygare@ki.se>.
 
 ## Registration for therapists
 
@@ -125,7 +125,7 @@ You have now tried the basic functions of the platform. For some patients, this 
 - You will see that your patient has two flags next to the "last login" column. Hover over the flags to learn more about them.
 - Now it's time to manage them. **Click on the pencil** at the far left of the table display to edit that specific participant.
 - Navigate to the **Flags** tab to view the flags. Select the error report flag by **clicking the pencil** to the right
-- When patients report errors, you will need to review them in order to determine whether there is a misunderstanding or easy fix that you can help them with, or something more complex that you need to escalate to <ocdnet.support@webcbt.se>. See more information regarding common technical issues at the *Technical support* chapter on this site.
+- When patients report errors, you will need to review them in order to determine whether there is a misunderstanding or easy fix that you can help them with, or something more complex that you need to escalate to <oskar.flygare@ki.se>. See more information regarding common technical issues at the *Technical support* chapter on this site.
 - Let's now pretend that it was a simple problem about navigating the site. You'll then create a note where you comment on actions taken (in this case, sending a message to the patient where you clarify how they can navigate the site). Select **close flag with this note** to remove the flag, then **click save**.
 - (In a real treatment, you would now send a message to the patient with your answer to the error report)
 - Close the participant to go back to the Participant search overview. The flag should no longer display.
@@ -185,4 +185,4 @@ Please answer a short survey about the workshop: [https://tinyurl.com/ocdnet-for
 
 ---
 
-Do you have suggestions for how to make this workshop better? Please send us an e-mail at <ocdnet.support@webcbt.se> or talk to us in person! We are training therapists at several locations and want to improve the workshop along the way.
+Do you have suggestions for how to make this workshop better? Please send us an e-mail at <oskar.flygare@ki.se> or talk to us in person! We are training therapists at several locations and want to improve the workshop along the way.
